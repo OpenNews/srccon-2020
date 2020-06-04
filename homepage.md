@@ -5,7 +5,7 @@ permalink: /
 
 ### When & where
 
-**DATE, at VENUE in CITY**
+**July 15-17, online!**
 
 ### About {{ page.event_name }}
 
