@@ -3,6 +3,7 @@ section: sponsors
 permalink: /sponsors/
 title: Become a Sponsor
 ---
+
 # Become a SRCCON Sponsor
 
 _"You all are leading the way on how to have a great conference that is welcoming for everyone, and someday the tech industry will be so much better off when it adopts what you've done."_ 
