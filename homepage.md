@@ -26,9 +26,9 @@ The SRCCON program is focused on the practical challenges that news technology a
 
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin-bottom: 1em; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://player.vimeo.com/video/180221748' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>
 
-SRCCON events are highly participatory and inclusive, where participants come first so they can can feel comfortable digging into complex problems. The conversations that happen here come from the community and reflect its values:
+SRCCON events are highly participatory, where participants come first so they can can feel comfortable digging into complex problems. The conversations that happen here come from the community and reflect its values:
 
-* **We lead change**—by challenging the power structures that have failed our industry, we push for inclusive, long-lasting change in our organizations, led by journalists of color and journalists in local and regional newsrooms.
+* **We lead change**—by challenging the power structures that have failed our industry, we push for long-lasting change in our organizations, led by journalists of color and journalists in local and regional newsrooms.
 * **We support one another**—by offering each other our expertise and empathy, we find new collaborators, help each other learn, and make our networks and organizations more resilient.
 * **We experiment in the open**—by sharing our work and processes, we do the transformative work our organizations need to better connect with and inform our communities.
 
@@ -36,7 +36,7 @@ Our work exists to create a future where journalists can work in newsrooms that 
 
 ### Who attends SRCCON events
 
-Our participants represent organizations ranging from massive to tiny, and come from all over the US and many other countries. Accessibility is a core value, and we always offer [live session transcripts and tons of documentation](https://2019.srccon.org/documentation/) for those who can't attend in person. This year, we're excited to expand possibilities for attendees even further. Much of the SRCCON program will be available across multiple time zones and through asynchronous participation—if you need to take care of the popsicle your kid just dropped on the floor or step away for an urgent call, we want to make it possible to participate around the complexity of this moment.
+Our participants represent organizations ranging from massive to tiny, and come from all over the U.S. and many other countries. Accessibility is a core value, and we always offer [live session transcripts and tons of documentation](https://2019.srccon.org/documentation/) for those who can't attend in person. This year, we're excited to expand possibilities for attendees even further. Much of the SRCCON program will be available across multiple time zones and through asynchronous participation—if you need to take care of the popsicle your kid just dropped on the floor or step away for an urgent call, we want to make it possible to participate around the complexity of this moment.
 
 SRCCON participants are developers, designers, journalists, editors, and allies: the practitioners and leaders who are transforming their newsrooms into more representative and innovative places to work. Participants come to SRCCON to change journalism by creating more intentional processes, better relationships with the communities they cover, and new ways to engage and inform people.
 

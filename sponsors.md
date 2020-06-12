@@ -1,7 +1,7 @@
 ---
+section: sponsors
 permalink: /sponsors/
-redirect_to:
- - /sponsors/about/
+title: Become a Sponsor
 ---
 # Become a SRCCON Sponsor
 
@@ -18,7 +18,7 @@ SRCCON is a journalism conference people love. This reaction comes from the appr
 
 We're seeking sponsors for SRCCON events, which host hundreds of participants from news and technology organizations of all sizes. Available sponsorships include:
 
-### 🤝 Partnership sponsors
+### 👏 Partnership sponsors
 Support all aspects of the conference planning and program. Partnership sponsors have maximum visibility — your support makes SRCCON possible.
 
 ### 👉 Accessibility sponsors
