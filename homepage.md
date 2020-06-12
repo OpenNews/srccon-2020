@@ -5,25 +5,40 @@ permalink: /
 
 ### When & where
 
-**July 15-17, online!**
+**SRCCON 2020 is July 15-17, online!**
+
+Key dates for your calendar:
+
+* **Wednesday, June 17:** Call for participation form opens
+* **Wednesday, June 24:** Priority session proposal deadline
+
+This year will be our first digital SRCCON, and we're building a digital space based on what we collectively value about the physical experience. SRCCON will still be where you can come to re-energize, personally and professionally, and the care participants take with one another will still animate every piece of our shared program.
+
+We'll have more information about talks, sessions, and how you can take part in the program on June 17.
 
 ### About {{ page.event_name }}
 
-SRCCON events are highly participatory and inclusive, where participants come first so they can can feel comfortable digging into complex problems. We organize the schedule around hands-on sessions, conversations, and workshops focused on the practical challenges that news technology and data teams encounter every day.
+The SRCCON program is focused on the practical challenges that news technology and data teams encounter every day. At SRCCON, you'll:
 
-Session topics come from the community and reflect its values:
+* be part of hands-on workshops that reimagine newsroom tech, teamwork, leadership, and community—not panels where you sit back and listen, but sessions where you participate and learn.
+* connect with people who share your hopes and dreams for journalism—not just making professional acquaintances, but creating personal relationships that last.
+* bring who you are into a conference that thinks about the program, the schedule—even games & meals—as ways to celebrate everything you have to share.
 
-* **We experiment in the open**—by sharing our work and processes, we do the transformative work our organizations need to better connect with and inform our communities.
-* **We support one another**—by offering each other our expertise and empathy, we find new collaborators, help each other learn, and make our networks and organizations more resilient.
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin-bottom: 1em; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://player.vimeo.com/video/180221748' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>
+
+SRCCON events are highly participatory and inclusive, where participants come first so they can can feel comfortable digging into complex problems. The conversations that happen here come from the community and reflect its values:
+
 * **We lead change**—by challenging the power structures that have failed our industry, we push for inclusive, long-lasting change in our organizations, led by journalists of color and journalists in local and regional newsrooms.
+* **We support one another**—by offering each other our expertise and empathy, we find new collaborators, help each other learn, and make our networks and organizations more resilient.
+* **We experiment in the open**—by sharing our work and processes, we do the transformative work our organizations need to better connect with and inform our communities.
 
-<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://player.vimeo.com/video/180221748' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>
+Our work exists to create a future where journalists can work in newsrooms that are equitable, inclusive, and collaborative. We hold space for you to bring your entire self to SRCCON, just as we hope that one day everyone will be able to bring their whole selves to work—instead of feeling the need to self-oppress because of identity or background. We also hope to provide the community, environment, and support you need to focus on your work (or what you're passionate about), and at least for a while, do it without carrying extra weight.
 
 ### Who attends SRCCON events
 
-The majority of SRCCON participants are the developers, designers, journalists, and editors who collaborate on open technologies and processes within journalism. Participants come to SRCCON because they are working to change journalism for the better, whether that be pushing for more inclusive processes, bringing outside technical perspectives into the newsroom, or developing new ways to engage and inform readers.
+Our participants represent organizations ranging from massive to tiny, and come from all over the US and many other countries. Accessibility is a core value, and we always offer [live session transcripts and tons of documentation](https://2019.srccon.org/documentation/) for those who can't attend in person. This year, we're excited to expand possibilities for attendees even further. Much of the SRCCON program will be available across multiple time zones and through asynchronous participation—if you need to take care of the popsicle your kid just dropped on the floor or step away for an urgent call, we want to make it possible to participate around the complexity of this moment.
 
-Our participants represent organizations ranging from massive to tiny, and come from all over the US and many other countries. Each year, we particularly welcome journalists and allies from the city hosting SRCCON, and we offer [live session transcripts and tons of documentation](https://2019.srccon.org/documentation/) for those who can't attend in person.
+SRCCON participants are developers, designers, journalists, editors, and allies: the practitioners and leaders who are transforming their newsrooms into more representative and innovative places to work. Participants come to SRCCON to change journalism by creating more intentional processes, better relationships with the communities they cover, and new ways to engage and inform people.
 
 ### What's next
 
