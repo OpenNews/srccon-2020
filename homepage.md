@@ -26,7 +26,7 @@ Key dates for your calendar:
 * **Thursday, June 25:** We'll start reviewing and selecting session proposals. We'll continue to review proposals as we have space in the program, specifically looking for sessions that react to events as they happen.
 * **By Wednesday, July 1:** We'll begin sending out session notifications
 
-You can stay up to date with [@srccon on Twitter](https://twitter.com/srccon) or our [newsletter](https://opennews.us5.list-manage.com/subscribe?u=71c95e9a43708843d2fdc1f09&id=996e9290cc).
+Two easy ways to stay up to date: [@srccon on Twitter](https://twitter.com/srccon) / [our newsletter](https://opennews.us5.list-manage.com/subscribe?u=71c95e9a43708843d2fdc1f09&id=996e9290cc)
 
 ### About SRCCON 2020
 
