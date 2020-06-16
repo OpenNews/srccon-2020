@@ -15,25 +15,25 @@ SRCCON is a journalism conference people love. This reaction comes from the appr
 <style>.embed-container { position: relative; padding-bottom: 56.25%; margin-bottom: 50px; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://player.vimeo.com/video/180221748' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>
 
 
-## Ways to sponsor SRCCON and help make events happen
+### Ways to sponsor SRCCON and help make events happen
 
 We're seeking sponsors for SRCCON events, which host hundreds of participants from news and technology organizations of all sizes. Available sponsorships include:
 
-### 👏 Partnership sponsors
+## 👏 Partnership sponsors
 Support all aspects of the conference planning and program. Partnership sponsors have maximum visibility — your support makes SRCCON possible.
 
-### 👉 Accessibility sponsors
+## 👉 Accessibility sponsors
 You're directly supporting our live transcription and scholarship programs. Accessibility is one of our most visible sponsorships across the entire program — because you are literally helping us make SRCCON available to as many people as possible.
 
-### 🙌 Break sponsors
+## 🙌 Break sponsors
 Create spaces for attendees to connect in virtual hallways and hangout spaces. We know that these spaces have created lifelong connections between participants, and extremely meaningful.
 
-### 👌 Event sponsors 
+## 👌 Event sponsors 
 Help us with all the finishing touches on the event. Show your support by helping us put on what our participants frequently say is "the best conference I've ever been to."
 
 Each sponsorship includes at least 1 free ticket and different types of visibility and recognition throughout the event. [Contact Erika Owens](mailto:erika@opennews.org) for a full kit with pricing and further details. We love chatting with folks to find the best way we can collaborate to welcome your team to the event and make it inclusive for all attendees!
 
-## What is SRCCON?
+### What is SRCCON?
 
 OpenNews has been hosting SRCCON annually since 2014, and added a series of smaller, topical conferences starting in 2017. At SRCCON events, participants come first so they can focus on collaborating on the work at hand. Over this time SRCCON has:
 
@@ -44,11 +44,11 @@ OpenNews has been hosting SRCCON annually since 2014, and added a series of smal
 - created a code of conduct and incident response plan that supports attendees and has influenced the journalism community, including ONA and IRE conferences.
 - led to countless job connections, innovative project ideas and collaborations, and new organizational policies on hiring, inclusion, mentorship, workflow, development processes, and more.
 
-## Who attends and why
+### Who attends and why
 
 People come first at SRCCON. Each event is set up to allow participants to focus on getting to know each other and learn from the wisdom in the room. About a third of participants also facilitate sessions, leading conversations and skillshares that help people bring new ideas and experience back to their newsrooms. 
 
-### The SRCCON 2019 audience and program included:
+*The SRCCON 2019 audience and program included:*
 
 - Half of attendees identify as women and almost a quarter as people of color.
 - A quarter of participants are in leadership roles. 
@@ -65,7 +65,7 @@ People come first at SRCCON. Each event is set up to allow participants to focus
 
 _“My job very much straddles the line between technology and the newsroom and in 20 years of being in the newspaper (media) business, this is the first conference I've been to that I felt like was specifically for me. I could contribute meaningfully to every session I went to.”_
 
-## Why sponsor SRCCON
+### Why sponsor SRCCON
 
 For journalism-technologists, newsroom leaders (both formal and informal), and others seeking to change journalism for the better, SRCCON is where they can sit down away from the deadlines and the day-to-day and learn from each other. We want you to help make that happen.
 
