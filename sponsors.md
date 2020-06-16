@@ -4,18 +4,13 @@ permalink: /sponsors/
 title: Become a Sponsor
 ---
 
-# Become a SRCCON Sponsor
+# Why sponsor SRCCON _now_
 
-_"You all are leading the way on how to have a great conference that is welcoming for everyone, and someday the tech industry will be so much better off when it adopts what you've done."_ 
+SRCCON 2020 will be fully online and in the midst of both a global crisis and reckoning within journalism. It will also be unlike any event we’ve held before, and as a sponsor, you'll be helping us create a unique, accessible, and inclusive event to host the frank, challenging, and creative conversations that need to be had in journalism right now. 
 
-_"This was the first conference I've been a part of where I felt I belonged on every level."_ 
+SRCCON is a journalism conference people love. This reaction comes from the approach SRCCON takes: highly participatory, extraordinarily inclusive, and incredibly embracing of the toughest conversations. The support of sponsors helps make all of that possible. As one attendee put it, “The structure of the program and the attention to detail and people’s needs is what makes this an exceptional and special event.” Sponsors are what make the detail, intentional design, and accessibility all possible.
 
-SRCCON is a journalism conference people love. This reaction comes from the approach SRCCON takes: highly participatory and extraordinarily inclusive. We're grateful for the support of sponsors in helping make this event possible.
-
-<style>.embed-container { position: relative; padding-bottom: 56.25%; margin-bottom: 50px; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://player.vimeo.com/video/180221748' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>
-
-
-### Ways to sponsor SRCCON and help make events happen
+### Ways to sponsor SRCCON and help make it possible
 
 We're seeking sponsors for SRCCON events, which host hundreds of participants from news and technology organizations of all sizes. Available sponsorships include:
 
@@ -37,16 +32,18 @@ Each sponsorship includes at least 1 free ticket and different types of visibili
 
 OpenNews has been hosting SRCCON annually since 2014, and added a series of smaller, topical conferences starting in 2017. At SRCCON events, participants come first so they can focus on collaborating on the work at hand. Over this time SRCCON has:
 
-- welcomed more than 1,500 participants, with a healthy mix of new and returning attendees each time.
-- hosted 319 interactive, collaborative sessions on topics ranging from archiving and algorithms to management and self-care.
-- provided scholarship support to help 228 participants and facilitators attend these events.
-- operated with inclusion and accessibility as core design features, providing live transcription, childcare, tasty food and drink for all dietary needs, and a schedule with space to refresh and connect.
-- created a code of conduct and incident response plan that supports attendees and has influenced the journalism community, including ONA and IRE conferences.
-- led to countless job connections, innovative project ideas and collaborations, and new organizational policies on hiring, inclusion, mentorship, workflow, development processes, and more.
+- Welcomed more than 1,500 participants, with a healthy mix of new and returning attendees each time.
+- Hosted over 300 interactive, collaborative sessions on topics ranging from archiving and algorithms to management and self-care.
+- Provided scholarship support to help 250 participants and facilitators attend these events.
+- Operated with inclusion and accessibility as core design features, providing live transcription, childcare, tasty food and drink for all dietary needs, and a schedule with space to refresh and connect. This year, we're planning to offer digital accessibility across international timezones, and intentional programming for how attendees can digitally connect based on their needs.
+- Created a code of conduct and incident response plan that supports attendees and has influenced the journalism community, including ONA and IRE conferences.
+- Led to countless job connections, innovative project ideas and collaborations, and new organizational policies on hiring, inclusion, mentorship, workflow, development processes, and more.
 
 ### Who attends and why
 
 People come first at SRCCON. Each event is set up to allow participants to focus on getting to know each other and learn from the wisdom in the room. About a third of participants also facilitate sessions, leading conversations and skillshares that help people bring new ideas and experience back to their newsrooms. 
+
+<style>.embed-container { position: relative; padding-bottom: 56.25%; margin-bottom: 50px; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://player.vimeo.com/video/180221748' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>
 
 *The SRCCON 2019 audience and program included:*
 
@@ -60,17 +57,13 @@ People come first at SRCCON. Each event is set up to allow participants to focus
 
 ### SRCCON 2019 participants attended because:
 
-- they wanted to discuss challenges facing their teams every day. The [entire SRCCON schedule](https://2019.srccon.org/schedule) was built from session pitches from attendees, including topics like: technical communication, collaboration, engagement, algorithms, news nerd career paths, security, accessibility, supporting journalists of color, data viz, management, and more.
-- they wanted to (and reported being able to!) build stronger network connections, to find new strategies to take back to their newsroom, and to learn more about new tools and tactics to improve their journalism.
+- They wanted to discuss challenges facing their teams every day. The [entire SRCCON schedule](https://2019.srccon.org/schedule) was built from session pitches from attendees, including topics like: technical communication, collaboration, engagement, algorithms, news nerd career paths, security, accessibility, supporting journalists of color, data viz, management, and more.
+- They wanted to (and reported being able to!) build stronger network connections, to find new strategies to take back to their newsroom, and to learn more about new tools and tactics to improve their journalism.
+
+_"You all are leading the way on how to have a great conference that is welcoming for everyone, and someday the tech industry will be so much better off when it adopts what you've done."_ 
+
+_"This was the first conference I've been a part of where I felt I belonged on every level."_ 
 
 _“My job very much straddles the line between technology and the newsroom and in 20 years of being in the newspaper (media) business, this is the first conference I've been to that I felt like was specifically for me. I could contribute meaningfully to every session I went to.”_
-
-### Why sponsor SRCCON
-
-For journalism-technologists, newsroom leaders (both formal and informal), and others seeking to change journalism for the better, SRCCON is where they can sit down away from the deadlines and the day-to-day and learn from each other. We want you to help make that happen.
-
-Sponsors help us make this event unique and accessible by keeping our ticket price well below cost, getting people to the event, and bringing in the special touches that make SRCCON… SRCCON. As one attendee put it, “The structure of the program and the attention to detail and people's needs is what makes this an exceptional and special event.” Sponsors are what make the detail, intentional design, and accessibility all possible.
-
-_“SRCCON is the best conference I go to all year. It's so thoughtful and well planned. I feel happy, safe, and informed.”_ (all quotations from SRCCON attendees in post-event surveys)
 
 **Interested in having your company or organization become a sponsor of SRCCON?** [Get in touch with OpenNews Executive Director Erika Owens today.](mailto:erika@opennews.org)
