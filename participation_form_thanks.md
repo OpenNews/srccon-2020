@@ -1,7 +1,7 @@
 ---
 section: attendees
 permalink: /participation/thanks/
-title: Call for Participation — Thanks!
+title: Call for participation — thanks!
 ---
 
 # Thank you for answering our call for participation!

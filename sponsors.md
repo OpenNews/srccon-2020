@@ -1,7 +1,7 @@
 ---
 section: sponsors
 permalink: /sponsors/
-title: Why Sponsor SRCCON Now
+title: Why sponsor SRCCON now
 ---
 
 # Why sponsor SRCCON _now_
