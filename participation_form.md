@@ -1,7 +1,7 @@
 ---
 section: attendees
 permalink: /participation/form/
-title: Call for Participation
+title: Call for participation
 ---
 
 # Call for participation
