@@ -51,6 +51,9 @@ strong {
     line-height: 1;
     display: inline-block;
 }
+.button:hover {
+	background-color: #f65a03;
+}
 
 
 .hub header {

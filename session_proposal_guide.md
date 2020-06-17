@@ -19,7 +19,7 @@ Are you thinking about [proposing a session](/participation/form) for SRCCON 202
 SRCCON 2020 will be online-only, and we're excited about the ways that will make this event accessible to even more people. We'll be trading in easels, sharpies, and post-it notes for a set of digital collaboration tools this year, so we're looking at a few things differently:
 
 * Sessions will take place over video, and we're exploring exactly which platform will help us best support accessibility, participation, and security. We'll share more details soon, along with a set of documents and platforms for facilitators to use in collaboration and brainstorming work.
-* We're asking all session facilitators to work with at least one cofacilitator. Facilitation teams are popular at every SRCCON—it's super helpful in representing different perspectives and backgrounds, plus it's just nice to share the work with someone! This year, facilitators may need to respond to many different things, from shaky internet connections to keeping an eye on threads of participant comments, and we think teams will help everything run much more smoothly.
+* We're asking all session facilitators to work with at least one co-facilitator. Facilitation teams are popular at every SRCCON—it's super helpful in representing different perspectives and backgrounds, plus it's just nice to share the work with someone! This year, facilitators may need to respond to many different things, from shaky internet connections to keeping an eye on threads of participant comments, and we think teams will help everything run much more smoothly.
 * We're planning a mix of sessions taking place largely between 9am-9pm ET, to make it easier for people from a variety of time zones to participate as well as for all participants to manage attending sessions alongside other responsibilities.
 
 Many of the things that make SRCCON sessions great will stay the same, too. Sessions will last 75 minutes. You'll be in conversation with a bunch of other smart, engaged people, so no one expects you to have all the answers—sometimes it's important just to bring the right questions! We find that the best sessions are often led by facilitators who:
@@ -75,15 +75,15 @@ And we believe that conferences like SRCCON are where amazing work only _begins_
 
 ## What happens when the conference is over?
 
-One of the most exhilirating things for us as conference organizers is to see people go out and DO THE WORK. Maybe that'll be you, as a session leader, with newfound energy after talking through how you're changing the ways your organization operates. Maybe it's an attendee who learned something new in _your_ session, and takes home a plan to change their community's relationship with journalism. There are so many exciting things that can happen when passionate people get together at an event like SRCCON. And we want to help you plan for those outcomes! If there's something you'd like to build together or move forward after the event is over, we're here to support that work. We just want you to tell us what you need.
+One of the most exhilarating things for us as conference organizers is to see people go out and DO THE WORK. Maybe that'll be you, as a session leader, with newfound energy after talking through how you're changing the ways your organization operates. Maybe it's an attendee who learned something new in _your_ session, and takes home a plan to change their community's relationship with journalism. There are so many exciting things that can happen when passionate people get together at an event like SRCCON. And we want to help you plan for those outcomes! If there's something you'd like to build together or move forward after the event is over, we're here to support that work. We just want you to tell us what you need.
 
 ## Additional resources
  
-* [How to approach planning a session](https://opennews.org/blog/srccon-session-planning/), by OpenNews’ Ryan Pitts
-* [Power Dynamics and Inclusion in Virtual Meetings](https://aspirationtech.org/blog/virtualmeetingpowerdynamics), by Aspiration Tech's Evelyn Arellano
-* [Three ways to facilitate a great conference session](https://opennews.org/blog/srccon-facilitator-recs-one/), by OpenNews’ Sisi Wei
-* [How we facilitated a huge, participatory, highly charged SRCCON session](https://opennews.org/blog/srccon-facilitator-recs-two/), by NPR’s Alyson Hurt
-* [Teaching and brainstorming inclusive technical metaphors](https://source.opennews.org/articles/teaching-and-brainstorming-inclusive-technical-met/), by Vox Product’s Nicole Zhu
+* [How to approach planning a session](https://opennews.org/blog/srccon-session-planning/), by Ryan Pitts of OpenNews
+* [Power Dynamics and Inclusion in Virtual Meetings](https://aspirationtech.org/blog/virtualmeetingpowerdynamics), by Evelyn Arellano of Aspiration Tech
+* [Three ways to facilitate a great conference session](https://opennews.org/blog/srccon-facilitator-recs-one/), by Sisi Wei of OpenNews
+* [How we facilitated a huge, participatory, highly charged SRCCON session](https://opennews.org/blog/srccon-facilitator-recs-two/), by Alyson Hurt of NPR
+* [Teaching and brainstorming inclusive technical metaphors](https://source.opennews.org/articles/teaching-and-brainstorming-inclusive-technical-met/), by Nicole Zhu of Vox Product
 * [Stuck in a rut? Tackle newsroom frustrations with board games](https://source.opennews.org/articles/newsroom-frustration-games/), by Sara Konrad Baranowski of the Iowa Falls Times Citizen and Andrea Suozzo of Vermont’s Seven Days
 * [Great Conference Sessions, the SRCCON Way](https://source.opennews.org/articles/srccon-great-conference-sessions/), by Brent Jones of St. Louis Public Radio
 * [Behind the decisions that help make SRCCON, and your sessions, more humane](https://opennews.org/blog/srccon-human-stuff/)

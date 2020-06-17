@@ -16,13 +16,13 @@ This year will be our first digital SRCCON, and we're building an online space b
 * [facilitate a session](/sessions/proposal-guide/)
 * [help us prepare for the event](/volunteers/)
 * [share your questions and experiences as an attendee](/attendees/)
-* lead a conversation about something you're passionate about (including your hobbies outside of work)
+* lead a conversation about something you're passionate about, including your hobbies outside of work
 
-Or suggest something we haven't thought of yet. The [participation form](/participation/form) will help you tell us how you'd like to be part of SRCCON 2020, and our [session proposal guide](/sessions/proposal-guide/) can help you shape ideas for the program. We'll review entries on a rolling basis, and if invited to attend or facilitate a session, you'll have the chance to [purchase a ticket](/attendees/#tickets). The program will take place over the course of three days, with a mix of asynchronous and timed sessions, largely between the hours of 9am-9pm ET to accommodate participation from as many time zones as possible.
+Or suggest something we haven't thought of yet. The [participation form](/participation/form) will help you tell us how you'd like to be part of SRCCON 2020, and our [session proposal guide](/sessions/proposal-guide/) can help you shape ideas for the program. We'll review entries on a rolling basis, and if invited to attend or facilitate a session, you'll have the chance to [purchase a ticket](/attendees/#tickets). The program will take place over the course of three days, with a mix sessions you'll be able to participate in live and asynchronously, largely between the hours of 9am-9pm ET to accommodate participation from as many time zones as possible.
 
 Key dates for your calendar:
 
-* **Wednesday, June 24:** Priority deadline for session proposals
+* **Wednesday, June 24:** Priority deadline for session proposals and scholarship applications
 * **Thursday, June 25:** We'll start reviewing and selecting session proposals. We'll continue to review proposals as we have space in the program, specifically looking for sessions that react to events as they happen.
 * **By Wednesday, July 1:** We'll begin sending out session notifications
 
@@ -30,7 +30,7 @@ Two easy ways to stay up to date: [@srccon on Twitter](https://twitter.com/srcco
 
 ### About SRCCON 2020
 
-SRCCON 2020 will be fully online and in the midst of both a global crisis and reckoning within journalism. We expect that in some ways, it will be unlike any event we’ve held before. What we do know, however, is that SRCCON 2020 will remain a unique, accessible, and inclusive event that hosts frank, challenging, nurturing, and creative conversations that need to be had.
+SRCCON 2020 will be fully online and in the midst of both a global crisis and a reckoning within journalism. We expect that in some ways, it will be unlike any event we’ve held before. What we do know, however, is that SRCCON 2020 will remain a unique, accessible, and inclusive event that hosts frank, challenging, nurturing, and creative conversations that need to be had.
 
 At SRCCON, you'll:
 

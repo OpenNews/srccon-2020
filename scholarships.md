@@ -22,8 +22,9 @@ There's no separate application. The scholarship ticket will be one of the optio
 ## Who should apply
  
 The tickets are for:
+
 * Anyone in the journalism-tech community who is unable to purchase a ticket to attend, in particular laid-off, unemployed, and freelance journalists
-* Tickets are prioritized for Black, indigneous, and people of color journalists
+* Tickets are prioritized for Black journalists, Indigenous journalists, and journalists of color
 
 The stipends are for:
 
@@ -31,7 +32,7 @@ The stipends are for:
 
 ## How to apply
 
-Questions to apply for the stipend are included in the call for participation form. The scholarship ticket will be available through the registration process, no separate application necessary. 
+Questions to apply for the stipend are included in the call for participation form, and the priority deadline for consideration is June 24. The scholarship ticket will be available through the registration process, no separate application necessary. 
 
 ## When notifications go out
 

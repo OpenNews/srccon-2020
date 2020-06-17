@@ -6,7 +6,7 @@ title: Why sponsor SRCCON now
 
 # Why sponsor SRCCON _now_
 
-SRCCON 2020 will be fully online and in the midst of both a global crisis and reckoning within journalism. It will also be unlike any event we’ve held before, and as a sponsor, you'll be helping us create a unique, accessible, and inclusive event to host the frank, challenging, and creative conversations that need to be had in journalism right now. 
+SRCCON 2020 will be fully online and in the midst of both a global crisis and a reckoning within journalism. It will also be unlike any event we’ve held before, and as a sponsor, you'll be helping us create a unique, accessible, and inclusive event to host the frank, challenging, and creative conversations that need to be had in journalism right now. 
 
 SRCCON is a journalism conference people love. This reaction comes from the approach SRCCON takes: highly participatory, extraordinarily inclusive, and incredibly embracing of the toughest conversations. The support of sponsors helps make all of that possible. As one attendee put it, “The structure of the program and the attention to detail and people’s needs is what makes this an exceptional and special event.” Sponsors are what make the detail, intentional design, and accessibility all possible.
 
