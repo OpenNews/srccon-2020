@@ -4,7 +4,7 @@ permalink: /conduct/
 title: Our code of conduct
 ---
 
-## Code of conduct
+# Code of conduct
 
 SRCCON and OpenNews are committed to providing a welcoming and harassment-free environment for participants of all races, gender and trans statuses, sexual orientations, physical abilities, physical appearances, and beliefs. We&rsquo;ve written this code of conduct not because we expect bad behavior from our community&mdash;which, in our experience, is overwhelmingly kind and civil&mdash;but because we believe a clear code of conduct is one necessary part of building a respectful community space.
 
@@ -16,7 +16,7 @@ Participants at SRCCON events agree to:
 
 If any attendee engages in harassing behavior, the conference organizers may take any lawful action we deem appropriate, including but not limited to warning the offender or asking the offender to leave the conference. (If you feel you have been unfairly accused of violating this code of conduct, you should contact the conference team with a concise description of your grievance; any grievances filed will be considered by the entire OpenNews team.)
 
-This code of conduct covers the entirety of the event, including evening programs. During the event, we will publicize a contact email and phone number, in addition to pointing out staff members in event T-shirts so you know who to contact if you see or experience an issue.
+This code of conduct covers the entirety of the event. We are in the process of adapting this code and the response plan for taking place in a virtual rather than in-person setting. We will update this page and clearly communicate to participants about how to contact staff members during the event if you see or experience an issue.
 
 We welcome your feedback on this and every other aspect of our events, and we thank you for working with us to make it a safe, enjoyable, and friendly experience for everyone who participates.
 

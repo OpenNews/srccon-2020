@@ -25,7 +25,7 @@ SRCCON 2020 will be online-only, and we're excited about the ways that will make
 Many of the things that make SRCCON sessions great will stay the same, too. Sessions will last 75 minutes. You'll be in conversation with a bunch of other smart, engaged people, so no one expects you to have all the answers—sometimes it's important just to bring the right questions! We find that the best sessions are often led by facilitators who:
 
 * have a clear outcome in mind—what you want people to leave with,
-* know what they can realistically cover in 60-75 minutes,  
+* know what they can realistically cover in 75 minutes,  
 * build a clear outline for the session, but deviate from it as needed,
 * actively seek to run balanced, inclusive conversations, and
 * make a few simple backup plans in case a session gets a larger or smaller audience than expected.
@@ -79,17 +79,17 @@ One of the most exhilirating things for us as conference organizers is to see pe
 
 ## Additional resources
  
-* [How to approach planning a session](http://opennews.org/blog/srccon-session-planning/)
-* [Power Dynamics and Inclusion in Virtual Meetings](https://aspirationtech.org/blog/virtualmeetingpowerdynamics)
+* [How to approach planning a session](https://opennews.org/blog/srccon-session-planning/), by OpenNews’ Ryan Pitts
+* [Power Dynamics and Inclusion in Virtual Meetings](https://aspirationtech.org/blog/virtualmeetingpowerdynamics), by Aspiration Tech's Evelyn Arellano
 * [Three ways to facilitate a great conference session](https://opennews.org/blog/srccon-facilitator-recs-one/), by OpenNews’ Sisi Wei
 * [How we facilitated a huge, participatory, highly charged SRCCON session](https://opennews.org/blog/srccon-facilitator-recs-two/), by NPR’s Alyson Hurt
 * [Teaching and brainstorming inclusive technical metaphors](https://source.opennews.org/articles/teaching-and-brainstorming-inclusive-technical-met/), by Vox Product’s Nicole Zhu
 * [Stuck in a rut? Tackle newsroom frustrations with board games](https://source.opennews.org/articles/newsroom-frustration-games/), by Sara Konrad Baranowski of the Iowa Falls Times Citizen and Andrea Suozzo of Vermont’s Seven Days
 * [Great Conference Sessions, the SRCCON Way](https://source.opennews.org/articles/srccon-great-conference-sessions/), by Brent Jones of St. Louis Public Radio
-* [Behind the decisions that help make SRCCON, and your sessions, more humane](http://opennews.org/blog/srccon-human-stuff/)
-* [Our favorite facilitation guide from AORTA Coop](http://aorta.coop/portfolio_page/facilitation-in-motion/)
-* [Tips from our friends at Aspiration Tech about running a breakout session](http://facilitation.aspirationtech.org/index.php?title=Facilitation:Break-Outs)
-* [General facilitation tips from Aspiration Tech](http://facilitation.aspirationtech.org/index.php?title=Facilitation:Facilitator_Guidelines)
+* [Behind the decisions that help make SRCCON, and your sessions, more humane](https://opennews.org/blog/srccon-human-stuff/)
+* [Our favorite facilitation guide from AORTA Coop](https://aorta.coop/portfolio_page/facilitation-in-motion/)
+* [Tips from our friends at Aspiration Tech about running a breakout session](https://facilitation.aspirationtech.org/index.php?title=Facilitation:Break-Outs)
+* [General facilitation tips from Aspiration Tech](https://facilitation.aspirationtech.org/index.php?title=Facilitation:Facilitator_Guidelines)
 
 ## Sessions from previous SRCCONs
 

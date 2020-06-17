@@ -14,8 +14,8 @@ SRCCON 2020 is July 15-17, online!
 This year will be our first digital SRCCON, and we're building an online space based on what we collectively value about the physical experience. There are lots of ways to participate in SRCCON 2020—you could:
 
 * [facilitate a session](/sessions/proposal-guide/)
-* help us prepare for the event
-* share your questions and experiences as an attendee
+* [help us prepare for the event](/volunteers/)
+* [share your questions and experiences as an attendee](/attendees/)
 * lead a conversation about something you're passionate about (including your hobbies outside of work)
 
 Or suggest something we haven't thought of yet. The [participation form](/participation/form) will help you tell us how you'd like to be part of SRCCON 2020, and our [session proposal guide](/sessions/proposal-guide/) can help you shape ideas for the program. We'll review entries on a rolling basis, and if invited to attend or facilitate a session, you'll have the chance to [purchase a ticket](/attendees/#tickets). The program will take place over the course of three days, with a mix of asynchronous and timed sessions, largely between the hours of 9am-9pm ET to accommodate participation from as many time zones as possible.
@@ -36,7 +36,7 @@ At SRCCON, you'll:
 
 * be part of hands-on workshops that reimagine newsroom tech, teamwork, leadership, community, and journalism itself —not panels where you sit back and listen, but sessions where you participate and learn.
 * connect with people who share your hopes and dreams for journalism—not just making professional acquaintances, but creating personal relationships that last.
-* bring who you are into a conference that thinks about the program, the schedule—even games & meals—as ways to celebrate everything you have to share.
+* bring who you are into a conference that thinks about the program, the schedule—even breaks & activities—as ways to celebrate everything you have to share.
 
 SRCCON programs are built by participants, and previous attendees have already expressed interest this year in talking about topics like: leading during crisis, nurturing staff remotely, navigating uncertain career paths, reshaping team workflows, and organizing collective action to address the systemic racism in our industry. We can't wait to hear what _you_ want to talk about.
 
