@@ -13,6 +13,8 @@ collections:
     output: true
     permalink: /:collection/:slug/
 
+url: https://2020.srccon.org
+
 defaults:
   - scope:
       path: ""
