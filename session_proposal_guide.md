@@ -6,7 +6,7 @@ title: Session proposal guide
 
 # Session proposal guide
 
-Are you thinking about [proposing a session](/participation/form) for SRCCON 2020? We'll have your back throughout the entire process—before, during, and after the conference. Here are some answers to questions that might be on your mind right now, and if you're curious about anything else, [please let us know](mailto:srccon@opennews.org)!
+Our priority deadline for session proposals has passed, but it's not to late to submit your ideas for the SRCCON 2020 program. If you're thinking about [proposing a session](/participation/form), we'll have your back throughout the entire process—before, during, and after the conference. Here are some answers to questions that might be on your mind right now, and if you're curious about anything else, [please let us know](mailto:srccon@opennews.org)!
 
 ## Key dates
 
