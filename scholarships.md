@@ -32,7 +32,7 @@ The stipends are for:
 
 ## How to apply
 
-Questions to apply for the stipend are included in the call for participation form, and the priority deadline for consideration is June 24. The scholarship ticket will be available through the registration process, no separate application necessary. 
+Questions to apply for the stipend are included in the call for participation form, and the priority deadline for consideration is June 24. The scholarship ticket will be available through the registration process, no separate application necessary. All stipend applications will be reviewed and applicants will be notified by July 1.
 
 ## When notifications go out
 

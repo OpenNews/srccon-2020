@@ -9,24 +9,42 @@ SRCCON 2020 is July 15-17, online!
 
 ### How to be a part of SRCCON 2020
 
-**[Our call for participation form is open!](/participation/form)** The priority deadline for session proposals is Wednesday, June 24.
+**[Our call for participation form is open!](/participation/form)** If you'd like to be part of SRCCON 2020, this is how to let us know.
 
 This year will be our first digital SRCCON, and we're building an online space based on what we collectively value about the physical experience. There are lots of ways to participate in SRCCON 2020—you could:
 
-* [facilitate a session](/sessions/proposal-guide/)
+* [help lead a session](/sessions/proposal-guide/)
 * [help us prepare for the event](/volunteers/)
 * [share your questions and experiences as an attendee](/attendees/)
 * lead a conversation about something you're passionate about, including your hobbies outside of work
 
-Or suggest something we haven't thought of yet. The [participation form](/participation/form) will help you tell us how you'd like to be part of SRCCON 2020, and our [session proposal guide](/sessions/proposal-guide/) can help you shape ideas for the program. We'll review entries on a rolling basis, and if invited to attend or facilitate a session, you'll have the chance to [purchase a ticket](/attendees/#tickets). The program will take place over the course of three days, with a mix of sessions you'll be able to participate in live and asynchronously, largely between the hours of 9am-9pm ET to accommodate participation from as many time zones as possible.
+Or suggest something we haven't thought of yet. The [participation form](/participation/form) is open for anyone who'd like to attend SRCCON 2020, and we review entries on a rolling basis. Our priority deadline for session ideas has passed and we're building the program now, but you can still submit a session idea for review as we have space in the schedule. Once our program is full, we'll update this site to let you know. If invited to attend or facilitate a session, you'll have the chance to [purchase a ticket](/attendees/#tickets). The program will take place over the course of three days, with a mix of sessions you'll be able to participate in live and asynchronously, largely between the hours of 9am-9pm ET to accommodate participation from as many time zones as possible.
 
 Key dates for your calendar:
 
-* **Wednesday, June 24:** Priority deadline for session proposals and scholarship applications
-* **Thursday, June 25:** We'll start reviewing and selecting session proposals. We'll continue to review proposals as we have space in the program, specifically looking for sessions that react to events as they happen.
-* **By Wednesday, July 1:** We'll begin sending out session notifications
+* ~~**Wednesday, June 24:** Priority deadline for session proposals and scholarship applications.~~
+* **By Wednesday, July 1:** We'll begin sending out session and scholarship notifications
+* **By Monday, July 6:** We'll share the SRCCON 2020 schedule
 
 Two easy ways to stay up to date: [@srccon on Twitter](https://twitter.com/srccon) / [our newsletter](https://opennews.us5.list-manage.com/subscribe?u=71c95e9a43708843d2fdc1f09&id=996e9290cc)
+
+### The SRCCON 2020 schedule
+
+We're excited to make this event accessible across time zones and differing circumstances. Here's how our session blocks are lining up:
+
+**Wednesday, July 15**  
+* 9am PT / 12pm ET / 4pm UTC
+* 5pm PT / 8pm ET / midnight UTC
+
+**Thursday, July 16**  
+* 8am PT / 11am ET / 3pm UTC
+* 1pm PT / 4pm ET / 8pm UTC
+
+**Friday, July 17**  
+* 7am PT / 10am ET / 2pm UTC
+* 12pm ET / 3pm ET / 7pm UTC
+
+[Read more about how we're thinking about the schedule this year](/attendees#schedule).
 
 ### About SRCCON 2020
 
@@ -58,7 +76,7 @@ SRCCON participants are developers, designers, journalists, editors, and allies:
 
 ### How much does it cost?
 
-[Ticket prices start at $125](/attendees/#tickets), plus ticketing fees. We'll also offer a limited number of need-based, [free scholarship tickets as well as $250 stipends](/scholarships) for attendees whose time to attend would otherwise be uncompensated.
+[Ticket prices start at $125](/attendees/#tickets), plus ticketing fees. We'll also offer a limited number of need-based, [free scholarship tickets as well as $250 stipends](/scholarships) for attendees whose time to attend would otherwise be uncompensated. All scholarship applications will be reviewed and applicants will be notified by July 1.
 
 SRCCON events don't have open sale dates or lotteries. If you want to come to SRCCON 2020, our [call for participation](/participation/form) is how to let us know.
 

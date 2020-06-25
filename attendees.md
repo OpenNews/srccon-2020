@@ -6,7 +6,7 @@ title: Attendees
 
 # Participation at SRCCON 2020
 
-SRCCON 2020 is a hands-on conference, where everyone who attends actively participates throughout the event. Our [call for participation form](/participation/form) is now open with questions about attending, pitching a session, and applying for a stipend.
+SRCCON 2020 is a hands-on conference, where everyone who attends actively participates throughout the event. Our [call for participation form](/participation/form) is now open. If you'd like to be part of SRCCON 2020, this is how to let us know.
 
 ## Not just attendees, but participants
 
@@ -14,11 +14,33 @@ At SRCCON 2020, everyone participates in some way. Our hands-on sessions rely on
 
 We'll have a few questions for you about what you'd like to bring to SRCCON 2020 and how we can support one another. We look forward to seeing what ideas folks have and how we can make them possible during our three days together. This is going to be our first time doing SRCCON online only, and we're excited about the chance to connect in new ways. As one prior attendee put it, SRCCON this year “will be a special opportunity to take some of the brightest minds in journalism, data, and community-building to tackle everything that has come to a head in the past couple of months with positivity, frankness, and creativity.”
 
+<span id="schedule"></span>
+
+## Making the schedule together
+
+Having SRCCON online this year means that we'll be able to make the event accessible across time zones and differing circumstances. Here's how we're currently thinking about the schedule:
+
+**Wednesday, July 15**  
+* 9am PT / 12pm ET / 4pm UTC
+* 5pm PT / 8pm ET / midnight UTC
+
+**Thursday, July 16**  
+* 8am PT / 11am ET / 3pm UTC
+* 1pm PT / 4pm ET / 8pm UTC
+
+**Friday, July 17**  
+* 7am PT / 10am ET / 2pm UTC
+* 12pm ET / 3pm ET / 7pm UTC
+
+Each block will include time for a talk with Q&A, a 75-minute session, and a social break. In addition, each day we'll add an extra hour to one block for hobby discussions, social meetups, or catching up over morning/evening beverages, depending on the time zone. Not everyone will be able to attend every time session, and that's ok! 
+
+In addition to live sessions, we'll also have pre-recorded and asynchronous talks and sessions as well as a chat space we'll keep open throughout the event. We sketched this schedule based on the time zones of people attending so far, and will be reviewing forms going forward to see if it'd be helpful to adjust access for other time zones. There's a [space in the form](/participation/form) to tell us what time zone you'll be attending from, and about other interests so we can match up small groups for discussion and start planning a bunch of fun activities, too!
+
 ## Inviting participants and allocating tickets
 
 We keep SRCCON events intentionally small, and this online event will be no different. We're planning for about 300 participants. Even though a physical venue isn't constraining the size of the crowd this year, the collaborative, interactive nature of SRCCON just doesn't scale in the same way a talks-only conference can. The relatively small size of SRCCON 2020 means we need to be intentional about equitably distributing tickets and ensuring that there are a mix of perspectives and skills at SRCCON 2020. Our [call for participation form](/participation/form) will help us understand who would like to take part and what you want to get out of it. With those responses, we'll work to create a schedule and audience that reflects the dynamic interests and needs of this community.
 
-The priority deadline for session proposals and scholarship applications is June 24, and we'll keep the form open for attendees as long as we can. We are going to review the call for participation forms on a rolling basis, and within a few business days we will let applicants know whether they will be invited to attend. If invited, you will have the chance to purchase a ticket starting at $125 plus fees.
+The priority deadline for session proposals and scholarship applications was June 24, and we'll keep the form open for attendees as long as we can. We review the call for participation forms on a rolling basis, and within a few business days we will let applicants know whether they will be invited to attend. If invited, you will have the chance to purchase a ticket starting at $125 plus fees.
 
 <span id="tickets"></span>
 
@@ -39,10 +61,6 @@ Here's the most important thing to know about these ticket prices: _We want you 
 We based these tiers on community feedback encouraging us to find ways to share event costs. Ticket funds are a huge part of what makes it possible to organize an event with scholarship tickets, stipends, live transcription, and the support of a skilled event team in preparing sessions and constructing a schedule that lets attendees focus on learning and talking together.
 
 If you have any questions at all about ticket pricing, [please reach out](mailto:srccon@opennews.org).
-
-## Facilitating sessions
-
-At SRCCON events, session facilitators regularly make up more than a third of attendees. All of our sessions are peer-led by conference attendees—consider becoming a facilitator this year by [learning more about sessions](/sessions/proposal-guide). You will be able to tell us all about your session idea on the [call for participation form](/participation/form). 
 
 ## Welcome, first-timers
 
