@@ -1,6 +1,22 @@
 [
     {
         "day": "Wednesday", 
+        "description": "", 
+        "everyone": "y", 
+        "facilitators": "", 
+        "facilitators_twitter": "", 
+        "id": "wed-opening", 
+        "length": "", 
+        "notepad": "", 
+        "room": "", 
+        "talk": "", 
+        "time": "12-12:15pm ET", 
+        "timeblock": "wed-12pm", 
+        "title": "SRCCON 2020 opening", 
+        "transcription": ""
+    }, 
+    {
+        "day": "Wednesday", 
         "description": "Alicia Bell and Tauhid Chappell on campaigning and organizing inside our organizations.", 
         "everyone": "", 
         "facilitators": "", 
@@ -10,7 +26,7 @@
         "notepad": "", 
         "room": "", 
         "talk": "y", 
-        "time": "12-12:45pm ET", 
+        "time": "12:15-1pm ET", 
         "timeblock": "wed-12pm", 
         "title": "SRCCON Talks: Alicia Bell & Tauhid Chappell", 
         "transcription": ""
@@ -26,9 +42,9 @@
         "notepad": "", 
         "room": "", 
         "talk": "", 
-        "time": "1pm ET", 
+        "time": "1-1:30pm ET", 
         "timeblock": "wed-1pm", 
-        "title": "Break", 
+        "title": "Break (+ optional chill & social time)", 
         "transcription": ""
     }, 
     {
@@ -182,11 +198,11 @@
         "facilitators": "", 
         "facilitators_twitter": "", 
         "id": "thu-talks-john", 
-        "length": "45 minutes", 
+        "length": "60 minutes", 
         "notepad": "", 
         "room": "", 
         "talk": "y", 
-        "time": "11-11:45am ET", 
+        "time": "11am-12pm ET", 
         "timeblock": "thu-11am", 
         "title": "SRCCON Talks: John Hernandez", 
         "transcription": ""
@@ -202,9 +218,9 @@
         "notepad": "", 
         "room": "", 
         "talk": "", 
-        "time": "12pm ET", 
+        "time": "12-12:30pm ET", 
         "timeblock": "thu-12pm", 
-        "title": "Break", 
+        "title": "Break (+ optional chill & social time)", 
         "transcription": ""
     }, 
     {
@@ -330,9 +346,9 @@
         "notepad": "", 
         "room": "", 
         "talk": "", 
-        "time": "5:15pm ET", 
+        "time": "5:15-5:45pm ET", 
         "timeblock": "thu-515pm", 
-        "title": "Break", 
+        "title": "Break (+ optional chill & social time)", 
         "transcription": ""
     }, 
     {
@@ -362,9 +378,9 @@
         "notepad": "", 
         "room": "", 
         "talk": "", 
-        "time": "6:30pm ET", 
+        "time": "6:30-7pm ET", 
         "timeblock": "thu-630pm", 
-        "title": "Break", 
+        "title": "Break (+ optional chill & social time)", 
         "transcription": ""
     }, 
     {
@@ -406,11 +422,11 @@
         "facilitators": "", 
         "facilitators_twitter": "", 
         "id": "fri-talks-moiz-ellis", 
-        "length": "45 minutes", 
+        "length": "60 minutes", 
         "notepad": "", 
         "room": "", 
         "talk": "y", 
-        "time": "11-11:45am ET", 
+        "time": "11am-12pm ET", 
         "timeblock": "fri-11am", 
         "title": "SRCCON Talks: Moiz Syed & Ellis Simani", 
         "transcription": ""
@@ -426,9 +442,9 @@
         "notepad": "", 
         "room": "", 
         "talk": "", 
-        "time": "12pm ET", 
+        "time": "12-12:30pm ET", 
         "timeblock": "fri-12pm", 
-        "title": "Break", 
+        "title": "Break (+ optional chill & social time)", 
         "transcription": ""
     }, 
     {
@@ -522,9 +538,9 @@
         "notepad": "", 
         "room": "", 
         "talk": "", 
-        "time": "3:45pm ET", 
+        "time": "3:45-4:15pm ET", 
         "timeblock": "fri-345pm", 
-        "title": "Break", 
+        "title": "Break (+ optional chill & social time)", 
         "transcription": ""
     }, 
     {
@@ -602,7 +618,7 @@
         "notepad": "", 
         "room": "", 
         "talk": "", 
-        "time": "5:30pm ET", 
+        "time": "5:30-6pm ET", 
         "timeblock": "fri-530pm", 
         "title": "SRCCON closing", 
         "transcription": ""
