@@ -457,8 +457,8 @@ footer li {
 
 .sponsor-list a {
     display: inline-block;
-    margin: 0 5% 1em 0;
-    width: 40%;
+    margin: 0 2% 1em 0;
+    width: 30%;
 }
 .sponsor-list a.narrow-logo {
     width: 23%;
