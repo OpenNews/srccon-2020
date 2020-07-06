@@ -8,13 +8,13 @@ permalink: /
 SRCCON 2020 is July 15-17, online!
 
 ### The SRCCON 2020 schedule
-**[Check out the program for SRCCON 2020!](/schedule)** We're excited to make this event accessible across time zones and different circumstances.
+**[Check out the schedule for SRCCON 2020!](/schedule)** We're excited to make this event accessible across time zones and different circumstances.
 
-We'll continue to update the schedule as we confirm a few final sessions, and there's still plenty of room to get involved!
+We'll continue to update the schedule as we confirm a few final sessions, and there's still plenty of room [to attend and get involved](/participation/form)!
 
 ### How to be a part of SRCCON 2020
 
-**[Our call for participation form is open!](/participation/form)** If you'd like to be part of SRCCON 2020, this is how to let us know.
+**[Our call for participation form is open!](/participation/form)** If you’d like to attend SRCCON 2020, this is how to let us know.
 
 This year will be our first digital SRCCON, and we're building an online space based on what we collectively value about the physical experience. There are lots of ways to participate in SRCCON 2020—you could:
 

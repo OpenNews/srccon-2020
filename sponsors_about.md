@@ -1,6 +1,6 @@
 ---
 section: sponsors
-permalink: /sponsors/
+permalink: /sponsors/about/
 title: Why sponsor SRCCON now
 ---
 
