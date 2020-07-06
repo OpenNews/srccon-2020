@@ -7,44 +7,24 @@ permalink: /
 
 SRCCON 2020 is July 15-17, online!
 
+### The SRCCON 2020 schedule
+**[Check out the program for SRCCON 2020!](/schedule)** We're excited to make this event accessible across time zones and different circumstances.
+
+We'll continue to update the schedule as we confirm a few final sessions, and there's still plenty of room to get involved!
+
 ### How to be a part of SRCCON 2020
 
 **[Our call for participation form is open!](/participation/form)** If you'd like to be part of SRCCON 2020, this is how to let us know.
 
 This year will be our first digital SRCCON, and we're building an online space based on what we collectively value about the physical experience. There are lots of ways to participate in SRCCON 2020—you could:
 
-* [help lead a session](/sessions/proposal-guide/)
 * [help us prepare for the event](/volunteers/)
 * [share your questions and experiences as an attendee](/attendees/)
-* lead a conversation about something you're passionate about, including your hobbies outside of work
+* [lead a conversation about something you're passionate about, including your hobbies outside of work](mailto:erika@opennews.org)
 
-Or suggest something we haven't thought of yet. The [participation form](/participation/form) is open for anyone who'd like to attend SRCCON 2020, and we review entries on a rolling basis. Our priority deadline for session ideas has passed and we're building the program now, but you can still submit a session idea for review as we have space in the schedule. Once our program is full, we'll update this site to let you know. If invited to attend or facilitate a session, you'll have the chance to [purchase a ticket](/attendees/#tickets). The program will take place over the course of three days, with a mix of sessions you'll be able to participate in live and asynchronously, largely between the hours of 9am-9pm ET to accommodate participation from as many time zones as possible.
-
-Key dates for your calendar:
-
-* ~~**Wednesday, June 24:** Priority deadline for session proposals and scholarship applications.~~
-* **By Wednesday, July 1:** We'll begin sending out session and scholarship notifications
-* **By Monday, July 6:** We'll share the SRCCON 2020 schedule
+Or suggest something we haven't thought of yet. The [participation form](/participation/form) is open for anyone who'd like to attend SRCCON 2020, and we review entries on a rolling basis. Our sessions program is full, but SRCCON is built around community participation, and there are still plenty of opportunities to get involved. If invited to attend, you'll have the chance to [purchase a ticket](/attendees/#tickets). The program will take place over the course of three days, with a mix of sessions you'll be able to participate in live and asynchronously, largely between the hours of 9am-9pm ET to accommodate participation from as many time zones as possible.
 
 Two easy ways to stay up to date: [@srccon on Twitter](https://twitter.com/srccon) / [our newsletter](https://opennews.us5.list-manage.com/subscribe?u=71c95e9a43708843d2fdc1f09&id=996e9290cc)
-
-### The SRCCON 2020 schedule
-
-We're excited to make this event accessible across time zones and differing circumstances. Here's how our session blocks are lining up:
-
-**Wednesday, July 15**  
-* 9am PT / 12pm ET / 4pm UTC
-* 5pm PT / 8pm ET / midnight UTC
-
-**Thursday, July 16**  
-* 8am PT / 11am ET / 3pm UTC
-* 1pm PT / 4pm ET / 8pm UTC
-
-**Friday, July 17**  
-* 7am PT / 10am ET / 2pm UTC
-* 12pm ET / 3pm ET / 7pm UTC
-
-[Read more about how we're thinking about the schedule this year](/attendees#schedule).
 
 ### About SRCCON 2020
 
