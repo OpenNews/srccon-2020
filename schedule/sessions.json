@@ -192,7 +192,7 @@
         "transcription": ""
     }, 
     {
-        "day": "Wednesday", 
+        "day": "Thursday", 
         "description": "We're really excited.", 
         "everyone": "y", 
         "facilitators": "", 
@@ -209,7 +209,7 @@
     }, 
     {
         "day": "Thursday", 
-        "description": "John Hernandez on burning it on down, and the problematic, inherited cultures imbued within journalism.", 
+        "description": "John Hernandez on burning it all down, and the problematic, inherited cultures imbued within journalism.", 
         "everyone": "", 
         "facilitators": "", 
         "facilitators_twitter": "", 
@@ -378,7 +378,7 @@
         "notepad": "", 
         "room": "", 
         "talk": "", 
-        "time": "5:15-5:45pm ET", 
+        "time": "5:15-5:30pm ET", 
         "timeblock": "thu-515pm", 
         "title": "Break (+ optional chill & social time)", 
         "transcription": ""
@@ -394,8 +394,8 @@
         "notepad": "", 
         "room": "", 
         "talk": "y", 
-        "time": "5:45-6:30pm ET", 
-        "timeblock": "thu-545pm", 
+        "time": "5:30-6:15pm ET", 
+        "timeblock": "thu-530pm", 
         "title": "SRCCON Talks: Doris Truong & Samantha Ragland", 
         "transcription": ""
     }, 
@@ -410,8 +410,8 @@
         "notepad": "", 
         "room": "", 
         "talk": "", 
-        "time": "6:30-7pm ET", 
-        "timeblock": "thu-630pm", 
+        "time": "6:15-7pm ET", 
+        "timeblock": "thu-615pm", 
         "title": "Break (+ optional chill & social time)", 
         "transcription": ""
     }, 
