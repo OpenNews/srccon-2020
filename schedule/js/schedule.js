@@ -28,6 +28,9 @@ function Schedule(CONFIG) {
         // add UI elements
         schedule.addListeners();
         schedule.addTabs();
+        if (schedule.localizeTimes) {
+            schedule.timezone = moment.tz.guess();
+        }
 
         // set chosenTab to tab matching today's date if possible
         schedule.getChosenTab();
@@ -91,9 +94,8 @@ function Schedule(CONFIG) {
               })
               .done(function(results) {
                     $('.open-block').text('OPEN');
-                    console.log(results);
                     if (schedule.localizeTimes) {
-                        schedule.localize(results)
+                        schedule.smartLocalize(results)
                     }
                     //schedule.formatTimeblocks(results.timeblocks);
                     //schedule.sortSessionGroups(results.sessions);
@@ -107,33 +109,62 @@ function Schedule(CONFIG) {
         }
     }
     
+    // uses moment.js to determine viewer's time zone, then converts
+    // time strings like "11am" or 11am-12:30pm" to local time
     schedule.smartLocalize = function(data) {
-        var tzName = moment.tz.guess();
         for (i = 0; i < data.length; ++i) {
-            timeVal = data[i].time.split('-');
+            timeVal = data[i].time.replace(" ET","");
+            // get the ending AMPM for strings like 1-2pm
+            timeValAMPM = timeVal.slice(-2, timeVal.length);
+            timeVal = timeVal.split('-');
             newVal = [];
             for (j = 0; j < timeVal.length; ++j) {
                 val = timeVal[j];
-                valET = moment.tz(val, "h:m a", "America/New_York");
+                // if one part of a time range does not have its own AMPM
+                // then use the default AMPM for this string before converting
+                val = val.endsWith('m') ? val : val.concat(timeValAMPM);
+                valET = moment.tz(val, "h:mm a", "America/New_York");
                 valLocal = valET.local();
-                valLocal = moment.tz(valLocal, tzName).format("h:mm a");
+                valLocal = moment.tz(valLocal, schedule.timezone).format("h:mm a");
                 valLocal = valLocal.replace(":00","");
                 newVal.push(valLocal);
             }
+            // if this is a time range and AMPM is the same
+            // for both sides of the range, only show it once
+            // e.g. 10am-11am --> 10-11am
+            if (newVal.length > 1) {
+                if (newVal[0].endsWith(newVal[1].slice(-2, newVal.length))) {
+                    newVal[0] = newVal[0].slice(0,-3);
+                }
+            }
             newValString = newVal.join('-');
-            
-            newValString += moment.tz(newVal[-1], tzName).format(" zz");
+            newValString += moment.tz(newVal[-1], schedule.timezone).format(" zz");
             data[i].time = newValString;
         }
     }
 
+    schedule.localizeTemplateTimes = function() {
+        var timesToLocalize = document.querySelectorAll(".localize");
+
+        for (i = 0; i < timesToLocalize.length; ++i) {
+            val = timesToLocalize[i].innerText;
+            if (val.endsWith("ET")) {
+                valET = moment.tz(val, "h:mm a", "America/New_York");
+                valLocal = valET.local();
+                displayLocal = moment.tz(valLocal, schedule.timezone).format("h:mm A zz");
+                displayLocal = displayLocal.replace(":00","");
+                timesToLocalize[i].innerText = displayLocal;
+            }
+        }
+        return;
+    }
+
     schedule.localize = function(data) {
-        var tzName = moment.tz.guess();
         for (i = 0; i < data.length; ++i) {
             val = data[i].time;
-            valET = moment.tz(val, "h:m a", "America/New_York");
+            valET = moment.tz(val, "h:mm a", "America/New_York");
             valLocal = valET.local();
-            displayLocal = moment.tz(valLocal, tzName).format("h:mm a zz");
+            displayLocal = moment.tz(valLocal, schedule.timezone).format("h:mm a zz");
             displayLocal = displayLocal.replace(":00","");
             data[i].time = displayLocal;
         }
@@ -440,7 +471,10 @@ function Schedule(CONFIG) {
             schedule.getFilteredSessions("day", capitalizedDayValue);
             $('#show-'+schedule.chosenTab).addClass('active');
         }
-        localizeTimes();
+        
+        if (schedule.localizeTimes) {
+            schedule.localizeTemplateTimes();
+        }
     }
 
     // given a JSON key name `filterKey`, find session objects with values
