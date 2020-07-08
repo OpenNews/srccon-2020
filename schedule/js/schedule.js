@@ -1,6 +1,7 @@
 function Schedule(CONFIG) {
     var schedule = {};
     var LOCALSTORGE_KEY_SAVED_SESSIONS = CONFIG.localStoragePrefix+'_saved_sessions';
+    var LOCALSTORGE_KEY_LOCALIZE_TIMES = CONFIG.localStoragePrefix+'_localize_times';
     
     schedule.init = function(CONFIG) {
         // TODO: make these configurable, passed in as options
@@ -23,14 +24,12 @@ function Schedule(CONFIG) {
         if (Modernizr.localstorage) {
             localStorage[LOCALSTORGE_KEY_SAVED_SESSIONS] = localStorage[LOCALSTORGE_KEY_SAVED_SESSIONS] || '';
             schedule.savedSessionIDs = _.compact(localStorage[LOCALSTORGE_KEY_SAVED_SESSIONS].split(',')) || [];
+            //schedule.localizeTimes = localStorage[LOCALSTORGE_KEY_LOCALIZE_TIMES] || schedule.localizeTimes;
         }
 
         // add UI elements
         schedule.addListeners();
         schedule.addTabs();
-        if (schedule.localizeTimes) {
-            schedule.timezone = moment.tz.guess();
-        }
 
         // set chosenTab to tab matching today's date if possible
         schedule.getChosenTab();
@@ -112,6 +111,8 @@ function Schedule(CONFIG) {
     // uses moment.js to determine viewer's time zone, then converts
     // time strings like "11am" or 11am-12:30pm" to local time
     schedule.smartLocalize = function(data) {
+        schedule.timezone = moment.tz.guess();
+        
         for (i = 0; i < data.length; ++i) {
             timeVal = data[i].time.replace(" ET","");
             // get the ending AMPM for strings like 1-2pm
@@ -145,6 +146,7 @@ function Schedule(CONFIG) {
 
     schedule.localizeTemplateTimes = function() {
         var timesToLocalize = document.querySelectorAll(".localize");
+        schedule.timezone = moment.tz.guess();
 
         for (i = 0; i < timesToLocalize.length; ++i) {
             val = timesToLocalize[i].innerText;
@@ -157,17 +159,6 @@ function Schedule(CONFIG) {
             }
         }
         return;
-    }
-
-    schedule.localize = function(data) {
-        for (i = 0; i < data.length; ++i) {
-            val = data[i].time;
-            valET = moment.tz(val, "h:mm a", "America/New_York");
-            valLocal = valET.local();
-            displayLocal = moment.tz(valLocal, schedule.timezone).format("h:mm a zz");
-            displayLocal = displayLocal.replace(":00","");
-            data[i].time = displayLocal;
-        }
     }
 
     schedule.formatTimeblocks = function(data) {
@@ -536,7 +527,7 @@ function Schedule(CONFIG) {
     // provide some user instructions at top of page
     schedule.addCaptionOverline = function(captionHTML) {
         schedule.$container.prepend("<div class='page-caption'></div>");
-        schedule.$container.find('.page-caption').html(captionHTML);
+        schedule.$container.find('.page-caption').html(captionHTML);        
     }
     
     schedule.clearHighlightedPage = function() {
@@ -557,8 +548,8 @@ function Schedule(CONFIG) {
         $(filterForm).appendTo(schedule.$container);
         $('#list-filter').focus();
 
-        var expand = $('<a id="show-descriptions" data-action="show" href="#"><i class="fa fa-plus-circle"></i> Show descriptions</a>').appendTo(schedule.$container);
-        
+        var expand = $('<a id="show-descriptions" data-action="show" href="#"><i class="fa fa-plus-circle toggle-control"></i> Show descriptions</a>').appendTo(schedule.$container);
+                
         var filteredList = $('#schedule');
         // watch search input for changes, and filter the session list accordingly
         $('#list-filter').change(function() {
@@ -665,7 +656,7 @@ function Schedule(CONFIG) {
                 clicked.html('<i class="fa fa-plus-circle"></i> Show descriptions').data('action', 'show');
             }
         });
-
+        
         // toggle individual schedule blocks on header tap
         schedule.$container.on('click', '.slider-control', function(e) {
             var clicked = $(this);
