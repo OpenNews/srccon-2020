@@ -70,6 +70,10 @@
 .fa-chevron-circle-down:before {
     content: "\f13a";
 }
+.fa-clock-o:before {
+    content: "\f017";
+}
+
 
 *, *:before, *:after {
     -webkit-box-sizing: border-box;
@@ -375,7 +379,8 @@ h3.slider-control {
     word-wrap: break-word;
 }
 
-#show-descriptions {
+#show-descriptions,
+#show-local-times {
     font-size: 1.5rem;
     padding: 4.5rem 0 0;
     display: block;
@@ -384,8 +389,9 @@ h3.slider-control {
     margin-right: 2%;
     float: right;
 }
-#show-descriptions i {
-    color: #fc6e1f;
+#show-descriptions i,
+#show-local-times i {
+    color: #232D44;
 }
 
 #filter-form {
@@ -627,10 +633,11 @@ h3.slider-control {
         width: 100%;
         margin-bottom: 2rem;
     }
-    #show-descriptions {
+    #show-descriptions,
+    #show-local-times {
         display: inline-block;
         padding: 0;
-        margin: 0 0 3.5rem 0;
+        margin: 0 0 3.5rem 2rem;
     }
     #headbox {
         right: auto;
