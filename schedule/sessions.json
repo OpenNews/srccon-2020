@@ -145,7 +145,7 @@
     }, 
     {
         "day": "Wednesday", 
-        "description": "", 
+        "description": "This will be an off-the-record conversation about what it takes to organize a newsroom union. We’ll share our experiences, the steps we took and what’s happening across the country. We’ll then open it up for any questions you want to talk about: why form a union? How does it work? Is it worth it? What can you actually improve? And what mistakes did you make?", 
         "everyone": "", 
         "facilitators": "", 
         "facilitators_twitter": "", 
@@ -465,18 +465,18 @@
     }, 
     {
         "day": "Friday", 
-        "description": "", 
+        "description": "Early on in Vox Media’s 10-year history, the media company proudly acknowledged that building a diverse, equitable, and inclusive company was a business-critical task. Though strides have been made in that decade, there remains a lifetime of work left to do.\n\nToday, as all companies must support employees amid a global pandemic and racial justice uprising, Vox Media’s Chris Clermont and Vox’s Christina Animashaun encourage individuals in every role, at every company, to add a new requirement to their job descriptions: foster an inclusive culture.\n\nChris Clermont (He/Him) is the D&I Program Manager at Vox Media, and is pioneering project work focused on building empathy, leading with authenticity, and managing bias at Vox Media – building a roadmap for accelerating and sustaining diversity, equity and inclusion at the company and in media.\n\nChristina Animashaun (They/them) is the News Graphics Designer for Vox. Their job at Vox is to show – not just tell – the stories of the day by producing and editing news graphics, data visualization, photography and illustration. Prior to Vox, they worked as a graphics reporter at POLITICO and as a researcher at the Investigative Reporting Workshop. \n\nIn this conversation, Clermont and Animashaun share lessons from their professional and personal experiences, and invite others to share successes and failures on the road to pursuing an equitable company culture. \n\nJoin a conversation that includes:\n* Breaking the myth that diversity is a person — inclusive hiring along isn’t the answer.\n* Action-based recommendations for putting a company’s values into practice.\n* Pitfalls that the most inclusive and innovative companies run into.\n* Immersive storytelling\n* Foundational tips on how to launch one’s own racial equity initiative or take a current diversity, equity and inclusion initiative to the next level.", 
         "everyone": "", 
-        "facilitators": "", 
+        "facilitators": "Chris Clermont, Christina Animashaun", 
         "facilitators_twitter": "", 
-        "id": "fri-vox-diversity", 
+        "id": "fri-vox-dei", 
         "length": "75 minutes", 
         "notepad": "", 
         "room": "", 
         "talk": "", 
         "time": "12:30-1:45pm ET", 
         "timeblock": "fri-1230pm", 
-        "title": "If we can do it so can you", 
+        "title": "Yes, it’s part of your job, too: Why Vox Media’s approach to diversity, equity, and inclusion demands more from everyone", 
         "transcription": ""
     }, 
     {
@@ -572,7 +572,7 @@
         "talk": "", 
         "time": "4:15-5:30pm ET", 
         "timeblock": "fri-415pm", 
-        "title": "Track Changes: Making Meaning with Diversity Data", 
+        "title": "Track Changes: Making Meaning with ASNE's Diversity Data", 
         "transcription": ""
     }, 
     {
