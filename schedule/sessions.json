@@ -14,7 +14,7 @@
         "time": "12-12:15pm ET", 
         "timeblock": "wed-12pm", 
         "title": "SRCCON 2020 opening", 
-        "transcription": ""
+        "transcription": "y"
     }, 
     {
         "break": "", 
@@ -31,7 +31,7 @@
         "time": "12:15-1pm ET", 
         "timeblock": "wed-12pm", 
         "title": "SRCCON Talks: Alicia Bell & Tauhid Chappell", 
-        "transcription": ""
+        "transcription": "y"
     }, 
     {
         "break": "y", 
@@ -49,6 +49,23 @@
         "timeblock": "wed-1pm", 
         "title": "Break (+ optional chill & social time)", 
         "transcription": ""
+    }, 
+    {
+        "break": "", 
+        "day": "Wednesday", 
+        "description": "Journalism education and curriculum remains focused on the skills needed to enter the industry, rather than how to improve journalism. Despite perennial debate about whether J-School is even necessary, formal education remains an important entry point for aspiring journalists who don't benefit from traditional power structures. So how do we make education better? What should journalism schools be teaching now about objectivity, leadership, stereotypes? Can school prepare new journalists to be resilient and effective advocates for change? What can only be learned outside the classroom? This session is jointly led by student journalists and educators who will later take ideas from this session to leaders of academic programs and current students. Share how your own education prepared or failed you, and imagine a new curriculum for a more diverse and ethical industry.", 
+        "everyone": "", 
+        "facilitators": "Lisa Waananen Jones, Angelica Relente, Daisy Zavala", 
+        "facilitators_twitter": "", 
+        "id": "wed-jschool", 
+        "length": "75 minutes", 
+        "notepad": "", 
+        "room": "", 
+        "talk": "", 
+        "time": "1:30-2:45pm ET", 
+        "timeblock": "wed-130pm", 
+        "title": "What I Wish I’d Learned in J-School", 
+        "transcription": "y"
     }, 
     {
         "break": "", 
@@ -99,23 +116,6 @@
         "time": "1:30-2:45pm ET", 
         "timeblock": "wed-130pm", 
         "title": "Turning a moment into a movement: How to sustain grassroots diversity efforts in your company", 
-        "transcription": ""
-    }, 
-    {
-        "break": "", 
-        "day": "Wednesday", 
-        "description": "Journalism education and curriculum remains focused on the skills needed to enter the industry, rather than how to improve journalism. Despite perennial debate about whether J-School is even necessary, formal education remains an important entry point for aspiring journalists who don't benefit from traditional power structures. So how do we make education better? What should journalism schools be teaching now about objectivity, leadership, stereotypes? Can school prepare new journalists to be resilient and effective advocates for change? What can only be learned outside the classroom? This session is jointly led by student journalists and educators who will later take ideas from this session to leaders of academic programs and current students. Share how your own education prepared or failed you, and imagine a new curriculum for a more diverse and ethical industry.", 
-        "everyone": "", 
-        "facilitators": "Lisa Waananen Jones, Angelica Relente, Daisy Zavala", 
-        "facilitators_twitter": "", 
-        "id": "wed-jschool", 
-        "length": "75 minutes", 
-        "notepad": "", 
-        "room": "", 
-        "talk": "", 
-        "time": "1:30-2:45pm ET", 
-        "timeblock": "wed-130pm", 
-        "title": "What I Wish I’d Learned in J-School", 
         "transcription": ""
     }, 
     {
@@ -184,7 +184,7 @@
         "time": "8-9:15pm ET", 
         "timeblock": "wed-8pm", 
         "title": "Opinion Journalism: Are There Any Ideas That Are Off-Limits?", 
-        "transcription": ""
+        "transcription": "y"
     }, 
     {
         "break": "", 
@@ -235,7 +235,7 @@
         "time": "9:30-10:15pm ET", 
         "timeblock": "wed-930pm", 
         "title": "SRCCON Talks: Tasneem Raja in conversation with Candice Fortman", 
-        "transcription": ""
+        "transcription": "y"
     }, 
     {
         "break": "", 
@@ -252,7 +252,7 @@
         "time": "11-11:15am ET", 
         "timeblock": "thu-11am", 
         "title": "OpenNews special DEI Coalition announcement", 
-        "transcription": ""
+        "transcription": "y"
     }, 
     {
         "break": "", 
@@ -269,7 +269,7 @@
         "time": "11:15am-12pm ET", 
         "timeblock": "thu-11am", 
         "title": "SRCCON Talks: John Hernandez", 
-        "transcription": ""
+        "transcription": "y"
     }, 
     {
         "break": "y", 
@@ -287,6 +287,23 @@
         "timeblock": "thu-12pm", 
         "title": "Break (+ optional chill & social time)", 
         "transcription": ""
+    }, 
+    {
+        "break": "", 
+        "day": "Thursday", 
+        "description": "What would happen if we changed what it means for journalism to have impact? Traditionally, when we talk about impact journalism, it follows a pattern of articles being written and a law changing or someone stepping down from their role. This idea doesn’t leave a lot of room for the other impact journalism has on communities — like trust, media literacy and access to actionable information. We’re going to discuss how to rethink the impact you’re tracking as a result of your journalism and then the next big step of actually tracking it.", 
+        "everyone": "", 
+        "facilitators": "Darryl Holliday, Julie Christie", 
+        "facilitators_twitter": "", 
+        "id": "thu-redefining impact", 
+        "length": "75 minutes", 
+        "notepad": "", 
+        "room": "", 
+        "talk": "", 
+        "time": "12:30-1:45pm ET", 
+        "timeblock": "thu-1230pm", 
+        "title": "Redefining Impact [or] Metrics to Match Your Mission", 
+        "transcription": "y"
     }, 
     {
         "break": "", 
@@ -342,18 +359,18 @@
     {
         "break": "", 
         "day": "Thursday", 
-        "description": "What would happen if we changed what it means for journalism to have impact? Traditionally, when we talk about impact journalism, it follows a pattern of articles being written and a law changing or someone stepping down from their role. This idea doesn’t leave a lot of room for the other impact journalism has on communities — like trust, media literacy and access to actionable information. We’re going to discuss how to rethink the impact you’re tracking as a result of your journalism and then the next big step of actually tracking it.", 
+        "description": "In most small newsrooms, there's no graphics team editor — when you hand in a story with a chart, it's your editor's job to vet the chart, plus its title, annotations and text. But editing a news graphic isn't like editing a story, and especially in small newsroom, you might be the person with the most data visualization experience in the room. Your editor might not know what a Marimekko chart is, but probably knows how to vet a story for clarity and flow. There's no inverted triangle or nut graf, but your graphic is telling a story.\n\nWe'll use this session to create a checklist that guides an editor through questions to ask about a graphic — how well it's communicating its message, and what it could be doing better.", 
         "everyone": "", 
-        "facilitators": "Darryl Holliday, Julie Christie", 
+        "facilitators": "Andrea Suozzo, Justin Myers", 
         "facilitators_twitter": "", 
-        "id": "thu-redefining impact", 
+        "id": "thu-editors-dataviz", 
         "length": "75 minutes", 
         "notepad": "", 
         "room": "", 
         "talk": "", 
-        "time": "12:30-1:45pm ET", 
-        "timeblock": "thu-1230pm", 
-        "title": "Redefining Impact [or] Metrics to Match Your Mission", 
+        "time": "4-5:15pm ET", 
+        "timeblock": "thu-4pm", 
+        "title": "Training Your Editor to Edit Your Dataviz", 
         "transcription": ""
     }, 
     {
@@ -371,23 +388,6 @@
         "time": "4-5:15pm ET", 
         "timeblock": "thu-4pm", 
         "title": "Meeting readers where they are: Being smart about 'off platform'", 
-        "transcription": ""
-    }, 
-    {
-        "break": "", 
-        "day": "Thursday", 
-        "description": "In most small newsrooms, there's no graphics team editor — when you hand in a story with a chart, it's your editor's job to vet the chart, plus its title, annotations and text. But editing a news graphic isn't like editing a story, and especially in small newsroom, you might be the person with the most data visualization experience in the room. Your editor might not know what a Marimekko chart is, but probably knows how to vet a story for clarity and flow. There's no inverted triangle or nut graf, but your graphic is telling a story.\n\nWe'll use this session to create a checklist that guides an editor through questions to ask about a graphic — how well it's communicating its message, and what it could be doing better.", 
-        "everyone": "", 
-        "facilitators": "Andrea Suozzo, Justin Myers", 
-        "facilitators_twitter": "", 
-        "id": "thu-editors-dataviz", 
-        "length": "75 minutes", 
-        "notepad": "", 
-        "room": "", 
-        "talk": "", 
-        "time": "4-5:15pm ET", 
-        "timeblock": "thu-4pm", 
-        "title": "Training Your Editor to Edit Your Dataviz", 
         "transcription": ""
     }, 
     {
@@ -439,7 +439,7 @@
         "time": "5:30-6:15pm ET", 
         "timeblock": "thu-530pm", 
         "title": "SRCCON Talks: Doris Truong & Samantha Ragland", 
-        "transcription": ""
+        "transcription": "y"
     }, 
     {
         "break": "y", 
@@ -546,6 +546,23 @@
     {
         "break": "y", 
         "day": "Friday", 
+        "description": "\nWhat I'm doing: leading a writing workshop based on the Amherst method, which was specifically developed as liberatory practice for silenced and marginalized voices, and is of course, welcoming to all. I once ran workshops for the New York Writers Coalition, which provides a quiet space for New Yorkers to write and share for 1-2 hours a week. Workshops are open to all at public libraries or are held at Rikers, nursing homes, community centers, alternative high schools, parks, etc.\n\nWhat you'll get: In response to specific writing prompts, me-time to write and if you so desire, share it with us for affirmative feedback. I will provide instructions. We'll likely do two writing rounds.\n\nWho's welcome: you, your kids, your spouse, etc.\n\nWhat you will need: a notepad, pen/pencil, a willingness to trust your voice, and encourage each other. (Remember, you're under no obligation to share what you write)\n\nOptional: preferred beverage, other treats, etc.", 
+        "everyone": "", 
+        "facilitators": "Carla Murphy", 
+        "facilitators_twitter": "", 
+        "id": "fri-writing-workshop", 
+        "length": "", 
+        "notepad": "", 
+        "room": "", 
+        "talk": "", 
+        "time": "10-11am ET", 
+        "timeblock": "fri-10am", 
+        "title": "Writing workshop", 
+        "transcription": ""
+    }, 
+    {
+        "break": "y", 
+        "day": "Friday", 
         "description": "Where do you find inspiration outside of your speciality, especially in areas that resonate at a personal — not professional — level? It might sound self-indulgent to wander beyond what seems most immediately useful, especially amid so much turmoil and suffering today. But to fully recognize each other’s humanity, we must also discover our own. Art, music, poetry and other forms of expression can help us see and feel beyond our personal experiences. As we strive to be better people, let’s share and discuss works that have transformed our understanding or sparked our passion beyond the practical.", 
         "everyone": "", 
         "facilitators": "Greg Linch", 
@@ -592,7 +609,7 @@
         "time": "11:15am-12pm ET", 
         "timeblock": "fri-11am", 
         "title": "SRCCON Talks: Moiz Syed & Ellis Simani", 
-        "transcription": ""
+        "transcription": "y"
     }, 
     {
         "break": "y", 
@@ -626,7 +643,7 @@
         "time": "12:30-1:45pm ET", 
         "timeblock": "fri-1230pm", 
         "title": "Yes, it’s part of your job, too: Why Vox Media’s approach to diversity, equity, and inclusion demands more from everyone", 
-        "transcription": ""
+        "transcription": "y"
     }, 
     {
         "break": "", 
@@ -694,7 +711,7 @@
         "time": "3-3:45pm ET", 
         "timeblock": "fri-3pm", 
         "title": "SRCCON Talks: Destinée-Charisse Royal", 
-        "transcription": ""
+        "transcription": "y"
     }, 
     {
         "break": "y", 
@@ -728,7 +745,7 @@
         "time": "4:15-5:30pm ET", 
         "timeblock": "fri-415pm", 
         "title": "Track Changes: Making Meaning with ASNE's Diversity Data", 
-        "transcription": ""
+        "transcription": "y"
     }, 
     {
         "break": "", 
@@ -761,7 +778,7 @@
         "talk": "", 
         "time": "4:15-5:30pm ET", 
         "timeblock": "fri-415pm", 
-        "title": "A New Manager's Toolkit: Empowerment, Empathy, and Ethics\n", 
+        "title": "A New Manager's Toolkit: Empowerment, Empathy, and Ethics", 
         "transcription": ""
     }, 
     {
@@ -796,6 +813,6 @@
         "time": "5:30-6pm ET", 
         "timeblock": "fri-530pm", 
         "title": "SRCCON closing", 
-        "transcription": ""
+        "transcription": "y"
     }
 ]
