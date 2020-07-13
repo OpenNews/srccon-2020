@@ -2,6 +2,7 @@
 section: scholarships
 permalink: /scholarships/
 title: Scholarships
+description: Whether you're a newsroom developer at a small organization with a strained professional development budget or a freelance developer eager to learn more about journalism code and tech, we want to help you attend SRCCON events.
 ---
 
 # Scholarships for SRCCON 2020
