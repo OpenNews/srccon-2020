@@ -340,17 +340,28 @@ main input {
     margin: 0 0 .5em;
 }
 
-.homepage #latest-news {
-    margin-left: 0;
-    padding-left: 0;
-}
-.homepage #latest-news li {
-    list-style: none;
-    padding-left: 0;
-}
 .homepage h2 {
     margin-top: 1.2em;
 }
+
+.projects h2 {
+    margin-top: 1.2em;
+}
+
+.action-links {
+    list-style: none;
+    margin: -.5em 0 1.5em 0;
+    padding: 0;
+    font-size: .83em;
+}
+ul.action-links li {
+    display: inline-block;
+    margin-right: 1em;
+}
+ul.action-links li a {
+    text-decoration: none;
+}
+
 .big-lead {
     font-size: 1.5em;
     line-height: 1.3;
