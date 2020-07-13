@@ -86,10 +86,12 @@ Product Kit is designed to support product strategy, research, and development i
 <span id="systems-thinking"></span>
 ## Systems Thinking for Journalists
 
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin-bottom: 1em; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://player.vimeo.com/video/437996967' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>
+
 Journalism has the power to shape how we see the world. What if we could better explain our most entrenched problems? What if we could illuminate effective opportunities for change? A practice called systems thinking can help, and this toolkit can help journalists use it to be a force for systemic change.
 
 * [Systems Thinking For Journalists toolkit](https://www.systems.journalismdesign.com/)
-* [An intro to systems thinking for journalists](https://www.systems.journalismdesign.com/a-basic-introduction)
+* [Introducing a systems thinking toolkit for journalists](https://journalismdesign.com/introducing-a-systems-thinking-toolkit-for-journalists/)
 
 
 
