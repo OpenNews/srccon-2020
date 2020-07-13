@@ -2,6 +2,7 @@
 section: projects
 permalink: /projects-products-research/
 title: Projects, Products, & Research track
+description: We've invited the folks behind some amazing journalism projects to share intro videos and demos in advance, and they'll be available throughout SRCCON 2020 to meet up for 1-1 and group conversations.
 ---
 
 # Projects, Products, & Research

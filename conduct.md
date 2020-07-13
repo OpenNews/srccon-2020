@@ -2,6 +2,7 @@
 section: conduct
 permalink: /conduct/
 title: Our code of conduct
+description: SRCCON and OpenNews are committed to providing a welcoming and harassment-free environment for participants of all races, gender and trans statuses, sexual orientations, physical abilities, physical appearances, and beliefs. This page describes the full code of conduct for SRCCON attendees.
 ---
 
 # Code of conduct

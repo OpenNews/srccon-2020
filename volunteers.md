@@ -2,6 +2,7 @@
 section: volunteers
 permalink: /volunteers/
 title: Volunteers
+description: We need YOU to help make SRCCON work. In addition to participants leading sessions throughout our conferences, we also need a small group of people to help us keep things running smoothly.
 ---
 
 # Volunteer at SRCCON 2020

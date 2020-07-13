@@ -2,6 +2,7 @@
 section: attendees
 permalink: /attendees/
 title: Attendees
+description: At SRCCON 2020, everyone participates in some way. Our hands-on sessions rely on participants who are ready to share their experiences and perspectives.
 ---
 
 # Participation at SRCCON 2020
