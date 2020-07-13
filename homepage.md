@@ -7,17 +7,17 @@ permalink: /
 
 **[Check out the schedule for SRCCON 2020!](/schedule)**
 
-* If you're a registered attendee, you can start participating right now with [all the sign-in links here on Eventbrite](https://2020.srccon.org/signin).
-* If you'd like to join us, [it's not too late](/participation/form). 
+* **Registered attendees:** You can start participating right now. [All the sign-in links are here on Eventbrite](https://2020.srccon.org/signin).
+* **Want to join us?** [It's not too late](/participation/form). 
 
 Here's our program for the week, and how you can still get involved.
 
 #### The Program (Wednesday-Friday, July 15-17)
 
-* **Talks**—The six talks on our program this year create a common foundation to build on during conversations throughout the week. SRCCON participants can watch them in advance and submit questions ahead of time, or join us live to watch the talks, listen to some fun intros for the speakers, and participate in live Q&As with the speakers.
-* **Sessions**—Participatory sessions create space to get into the biggest problems facing journalism, together. Community members will facilitate peer conversations and hands-on workshops that draw on the experience of every attendee in the (Zoom) room.
-* **Meetups & group conversations**—SRCCON makes time for study groups, "birds of a feather" meetups, hobby workshops, and gatherings on just about any topic you can think of. Some are on the schedule, some will happen in the Slack, and others will emerge organically throughout the week.
-* **More ways to get involved**—We’ve invited the folks behind some amazing projects to share intro videos and demos for you to explore in advance. Each project has a Slack channel, and they’ll be available throughout SRCCON to meet up for 1-1 or group conversations. If you'd like to participate in these conversations, [join us at SRCCON](/participation/form)!
+* **Talks:** The six talks on our program this year create a common foundation to build on during conversations throughout the week. SRCCON participants can watch them in advance and submit questions ahead of time, or join us live to watch the talks, listen to some fun intros for the speakers, and participate in live Q&As with the speakers.
+* **Sessions:** Participatory sessions create space to get into the biggest problems facing journalism, together. Community members will facilitate peer conversations and hands-on workshops that draw on the experience of every attendee in the (Zoom) room.
+* **Meetups & group conversations:** SRCCON makes time for study groups, "birds of a feather" meetups, hobby workshops, and gatherings on just about any topic you can think of. Some are on the schedule, some will happen in the Slack, and others will emerge organically throughout the week.
+* **More ways to get involved:** We’ve invited the folks behind some amazing projects to share intro videos and demos for you to explore in advance. Each project has a Slack channel, and they’ll be available throughout SRCCON to meet up for 1-1 or group conversations. If you'd like to participate in these conversations, [join us at SRCCON](/participation/form)!
 
 <ul class="action-links">
     <li>👉 <a href="/participation/form">Sign up for SRCCON</a></li>
