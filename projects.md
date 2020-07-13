@@ -79,8 +79,8 @@ Product Kit is designed to support product strategy, product research, and produ
 
 “The Quilt: Policy, Art, and Healing” is a joint effort by Voices for Racial Justice and The UpTake that aims to transform the ways in which Minnesota’s BIPOC communities approach both legislative policy work and legislative reporting. The magazine used the Journalism of Color methodology to create the reporting and applied a racial equity impact analysis to legislative storytelling. 
 
-* [The Quilt](thequiltmagazine.com)
-* [The UpTake](theuptake.org)
+* [The Quilt](https://thequiltmagazine.com/)
+* [The UpTake](http://theuptake.org/)
 
 
 <span id="systems-thinking"></span>
