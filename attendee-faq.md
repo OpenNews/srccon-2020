@@ -43,7 +43,7 @@ If you’ve got general questions about anything, post your question in these tw
 * #00-tech-support — For anytime you need help with the tech we’re using for SRCCON
 * #00-questions — For any and all other questions you might have
 
-If you have private, safety-related questions, stay tuned. We’ll be updating this page with more information about care and safety this year, and how you can bring up those concerns throughout SRCCON.
+Our [Code of Conduct](/conduct) covers the entirety of SRCCON, and we also have a [Care & Support page](/support) with thoughts about how we can be together as a community this week.
 
 
 ## How will we network during SRCCON?
@@ -165,9 +165,9 @@ Finally, you can help us by **only sharing links with attendees.**
 
 At previous SRCCONs, some parts of our programming have usually been publicly accessible, such as a live transcript of a session, or our etherpad notes. This year, we’d like to ask for your help to make sure that all of our programming is only shared with attendees. There’s two main reasons for this:
 
-First, it’s extremely important to us that all SRCCON participants are held accountable to our Code of Conduct. While it’s easy to share a Zoom link to a session or talk with a colleague or friend, unless that person registered for SRCCON, they will not have agreed to our Code of Conduct, which puts the community in a difficult position.
+First, it’s extremely important to us that all SRCCON participants are held accountable to our [Code of Conduct](/conduct). While it’s easy to share a Zoom link to a session or talk with a colleague or friend, unless that person registered for SRCCON, they will not have agreed to our Code of Conduct, which puts the community in a difficult position.
 
-Second, just like in-person SRCCON, we’re here to create a smaller environment where you have a chance to get to know each person in your sessions, and so people can feel comfortable sharing about and workshopping difficult challenges in their work or personal life. This year, we deliberately decided to put a similar cap on the number of attendees at SRCCON online, just as we would an in-person event, because we want to maintain that same sense of comfort so participants can still be vulnerable with one another. Similarly, our facilitators are also all preparing for a normal-for-SRCCON sized session. Even if a handful of SRCCON attendees invited extra folks, that’s enough to increase our session sizes by 50% or higher. Please help us avoid this situation.
+Second, just like in-person SRCCON, we’re here to create a smaller environment where you have a chance to get to know each person in your sessions, and so [people can feel comfortable sharing](/support) about and workshopping difficult challenges in their work or personal life. This year, we deliberately decided to put a similar cap on the number of attendees at SRCCON online, just as we would an in-person event, because we want to maintain that same sense of comfort so participants can still be vulnerable with one another. Similarly, our facilitators are also all preparing for a normal-for-SRCCON sized session. Even if a handful of SRCCON attendees invited extra folks, that’s enough to increase our session sizes by 50% or higher. Please help us avoid this situation.
 
 We don’t anticipate this being a problem at SRCCON, but we wanted to make sure we were both upfront and transparent about our thought process.
 
