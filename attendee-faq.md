@@ -25,19 +25,19 @@ Just before the conference begins, you will need to log into Eventbrite to [acce
 
 Normally, you might be picking up your welcome packet and pronoun pins when you arrive, so we wanted to give you a short, digital orientation too.
 
-**Step 1: Grab your name tag.** 
+###Step 1: Grab your name tag.
 
-Now that you’ve gotten your Slack invite,[edit your Slack profile](https://slack.com/help/articles/204092246-Edit-your-profile#:~:text=Update%20your%20profile&text=From%20your%20desktop%2C%20click%20your,profile%2C%20then%20click%20Save%20Changes.)! At in-person SRCCON events, we always feature your name prominently, and we do _not_ display the name of your organization. Help us maintain our focus on each of you as people and not as employees, and leave your organization name off your Slack profile. (We’ve already hidden email addresses from all Slack profiles.) Instead, put in three of your passions or interests into the “What I do” section of your Slack profile as conversation starters instead!** **Missing your Slack invite? Grab the direct sign-up link on [our Eventbrite page](https://2020.srccon.org/signin/).
+Now that you’ve gotten your Slack invite, [edit your Slack profile](https://slack.com/help/articles/204092246-Edit-your-profile#:~:text=Update%20your%20profile&text=From%20your%20desktop%2C%20click%20your,profile%2C%20then%20click%20Save%20Changes.)! At in-person SRCCON events, we always feature your name prominently, and we do _not_ display the name of your organization. Help us maintain our focus on each of you as people and not as employees, and leave your organization name off your Slack profile. (We’ve already hidden email addresses from all Slack profiles.) Instead, put in three of your passions or interests into the “What I do” section of your Slack profile as conversation starters instead! **Missing your Slack invite?** Grab the direct sign-up link on [our Eventbrite page](https://2020.srccon.org/signin/).
 
-**Step 2: Add your pronoun pin.**
+###Step 2: Add your pronoun pin.
 
 In lieu of physical pins, you can display your pronouns digitally this year! In your SRCCON Slack account and on Zoom, we invite everyone who’s comfortable to add their pronouns to their display names. For example, “Sisi Wei (she/her).” Displaying your pronoun even if you don’t feel like you need one helps create a welcoming space for our colleagues who do (and please, respect other people’s pronouns).
 
-**Step 3: Your map of our facilities.**
+###Step 3: Your map of our facilities.
 
 This year, SRCCON will have direct Zoom links for all our talks, sessions, and meetups, and we can create more of them as you sign up to lead your own meetups. Getting a hold of your bearings will be easy though. We’ll be posting direct Zoom links to every event on [our Eventbrite page](https://2020.srccon.org/signin/). Consider it your digital map. Please bookmark it!
 
-**Step 4: Our contact info for questions.**
+###Step 4: Our contact info for questions.
 
 If you’ve got general questions about anything, post your question in these two Slack channels:
 
@@ -84,21 +84,21 @@ Each day of the conference, talks will open and close our program.
 
 Our talk presenters at SRCCON 2020 are:
 
-*   Alicia Bell (@aliciacbell) and Tauhid Chappell (@TauhidChappell) on campaigning and organizing as journalists and inside our own organizations.
-*   Tasneem Raja (@tasneemraja) in conversation with Candice Fortman (@Cande313), on the joys and challenges of being a woman of color leading her own newsroom, while working within an ecosystem of racist policies and institutions.
-*   John Hernandez (@johnhrnndz) on burning it all down, and the problematic, inherited cultures imbued within journalism.
-*   Doris Truong (@DorisTruong) and Samantha Ragland (@sammyragland) on how no matter where you are on your organization’s ladder, you have agency and power.
-*   Moiz Syed (@moizsyed) and Ellis Simani (@emsimani) on objectivity, privilege, and how both bleed into how journalism interacts with protests.
-*   Destinée-Charisse Royal (@aroyalbox) on how to have difficult but effective conversations with people about racism, sexism, you name it.
+*   Alicia Bell ([@aliciacbell](https://twitter.com/aliciacbell)) and Tauhid Chappell ([@TauhidChappell](https://twitter.com/TauhidChappell)) on campaigning and organizing as journalists and inside our own organizations.
+*   Tasneem Raja ([@tasneemraja](https://twitter.com/tasneemraja)) in conversation with Candice Fortman ([@Cande313](https://twitter.com/Cande313)), on the joys and challenges of being a woman of color leading her own newsroom, while working within an ecosystem of racist policies and institutions.
+*   John Hernandez ([@johnhrnndz](https://twitter.com/johnhrnndz)) on burning it all down, and the problematic, inherited cultures imbued within journalism.
+*   Doris Truong ([@DorisTruong](https://twitter.com/DorisTruong)) and Samantha Ragland ([@sammyragland](https://twitter.com/sammyragland)) on how no matter where you are on your organization’s ladder, you have agency and power.
+*   Moiz Syed ([@moizsyed](https://twitter.com/moizsyed)) and Ellis Simani ([@emsimani](https://twitter.com/emsimani)) on objectivity, privilege, and how both bleed into how journalism interacts with protests.
+*   Destinée-Charisse Royal ([@aroyalbox](https://twitter.com/aroyalbox)) on how to have difficult but effective conversations with people about racism, sexism, you name it.
 
 If SRCCON sessions get us into the weeds and help us do the work, then these talks create a common, shared foundation to build upon during our conversations throughout the conference. 
 
 **There are two ways to interact with talks this year: live, or on your own time.** Especially since we’re all at home, we know that there are many reasons why you might need to miss a talk, even if you want to see it. That’s why this year, all of our talks will be pre-recorded and have live transcriptions. Here’s how it’ll work.
 
-*   **Watch talks on your own time. **If you can’t watch a talk live, you can watch it ahead of time and submit early questions for the speakers all from [our Eventbrite page](https://2020.srccon.org/signin). As a SRCCON participant, you’ll get access to recordings for each talk a day beforehand, so you’ll have plenty of time to watch before the live session.
+*   **Watch talks on your own time.** If you can’t watch a talk live, you can watch it ahead of time and submit early questions for the speakers all from [our Eventbrite page](https://2020.srccon.org/signin). As a SRCCON participant, you’ll get access to recordings for each talk a day beforehand, so you’ll have plenty of time to watch before the live session.
 *   **Live session, with intros and Q&A**: Before each talk, we’ll show you a special introduction for the speakers, and then play the recorded talk. As we’re watching, the speakers will be in the Zoom chat with you, and you’ll be able to ask questions during the talk in the chat. Afterwards, we’ll also do a moderated, live Q&A with the speakers on video. 
-*   **Overflow Q&A: **Right after our live Q&A, if there are still more questions for the speakers, we’ll be porting them over to our SRCCON Slack. We’ll have a single channel  (#talks-qa-overflow) dedicated to overflow questions from all our talks, and the speakers will hang out there for as long as they can to answer more questions. Some have already volunteered to stay for up to an additional hour, but some may not be able to stay after the live Q&A is done.
-*   **Watching the recap. **Since we’ll also be recording the live event, completely with live Q&A, if you submitted a question beforehand, or just want to watch the talk again, you’ll have access to those videos for the duration of SRCCON, also via [our Eventbrite page](https://2020.srccon.org/signin).
+*   **Overflow Q&A:** Right after our live Q&A, if there are still more questions for the speakers, we’ll be porting them over to our SRCCON Slack. We’ll have a single channel  (#talks-qa-overflow) dedicated to overflow questions from all our talks, and the speakers will hang out there for as long as they can to answer more questions. Some have already volunteered to stay for up to an additional hour, but some may not be able to stay after the live Q&A is done.
+*   **Watching the recap.** Since we’ll also be recording the live event, completely with live Q&A, if you submitted a question beforehand, or just want to watch the talk again, you’ll have access to those videos for the duration of SRCCON, also via [our Eventbrite page](https://2020.srccon.org/signin).
 
 
 ## Sessions at SRCCON, how do they work?
@@ -143,7 +143,7 @@ We’ll be recording our opening staff welcome, and we’ll make that available 
 
 All of our talks will be recorded too, and available to attendees during the conference. We also have some fun ideas on how we’ll be making them available after the conference too (think: watch parties). Stay tuned for more on this after SRCCON, and once we take a breather.
 
-We will_ not_ be recording any of our sessions, though some of them will have live transcription during SRCCON itself. Transcripts will be available during SRCCON and only to attendees.
+We will _not_ be recording any of our sessions, though some of them will have live transcription during SRCCON itself. Transcripts will be available during SRCCON and only to attendees.
 
 
 ## How can I be a great SRCCON participant?
@@ -158,11 +158,11 @@ Here’s how we always hope you’ll participate:
 
 This year, at an online SRCCON, we also hope that you’ll help us create a welcoming digital environment by:
 
-*   **Being generous with +1s and emojis. **During talks and sessions, speakers and facilitators won’t be able to see your expressions as clearly, or hear your claps or snaps — so give them positive feedback digitally in the chat, and be generous!
-*   **Help us maintain our focus on you, the community, and not your employer. **At in-person SRCCON events, we’ve always made the decision to never show a person’s place of work on their name badge. We’re carrying that over to SRCCON online by hiding your emails in Slack (which often reveal your employer), and by encouraging you to talk about your interests and passions first when making connections.
-*   **Support one another. **In-person, we like to follow the [pac man rule](https://www.ericholscher.com/blog/2017/aug/2/pacman-rule-conferences/). Digitally, we can support each other by following the same spirit. Especially with a video chat setup, it can be hard to get a word in. If you see someone else trying to get a word in, help make sure they get a chance to speak. If you see someone looking for help in Slack, lend an ear. 
+*   **Being generous with +1s and emojis.** During talks and sessions, speakers and facilitators won’t be able to see your expressions as clearly, or hear your claps or snaps — so give them positive feedback digitally in the chat, and be generous!
+*   **Help us maintain our focus on you, the community, and not your employer.** At in-person SRCCON events, we’ve always made the decision to never show a person’s place of work on their name badge. We’re carrying that over to SRCCON online by hiding your emails in Slack (which often reveal your employer), and by encouraging you to talk about your interests and passions first when making connections.
+*   **Support one another.** In-person, we like to follow the [pac man rule](https://www.ericholscher.com/blog/2017/aug/2/pacman-rule-conferences/). Digitally, we can support each other by following the same spirit. Especially with a video chat setup, it can be hard to get a word in. If you see someone else trying to get a word in, help make sure they get a chance to speak. If you see someone looking for help in Slack, lend an ear. 
 
-Finally, you can help us by **only sharing links with attendees. **
+Finally, you can help us by **only sharing links with attendees.**
 
 At previous SRCCONs, some parts of our programming have usually been publicly accessible, such as a live transcript of a session, or our etherpad notes. This year, we’d like to ask for your help to make sure that all of our programming is only shared with attendees. There’s two main reasons for this:
 
