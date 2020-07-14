@@ -1,15 +1,14 @@
 ---
-section: attendees
+section: attendee-faq
 permalink: /attendee-faq/
-title: How SRCCON:2020 Will Work Online
+title: How SRCCON 2020 Will Work Online
 description: SRCCON 2020 Attendee FAQ
 ---
 
-# How SRCCON:2020 Will Work Online 
+# How SRCCON 2020 Will Work Online 
 
 Schedule and speakers: [https://2020.srccon.org/schedule/](https://2020.srccon.org/schedule/)
-
-July 15-17, 2020
+<br/>July 15-17, 2020
 
 
 ## How do I join SRCCON 2020?
@@ -25,19 +24,19 @@ Just before the conference begins, you will need to log into Eventbrite to [acce
 
 Normally, you might be picking up your welcome packet and pronoun pins when you arrive, so we wanted to give you a short, digital orientation too.
 
-###Step 1: Grab your name tag.
+### Step 1: Grab your name tag.
 
 Now that you’ve gotten your Slack invite, [edit your Slack profile](https://slack.com/help/articles/204092246-Edit-your-profile#:~:text=Update%20your%20profile&text=From%20your%20desktop%2C%20click%20your,profile%2C%20then%20click%20Save%20Changes.)! At in-person SRCCON events, we always feature your name prominently, and we do _not_ display the name of your organization. Help us maintain our focus on each of you as people and not as employees, and leave your organization name off your Slack profile. (We’ve already hidden email addresses from all Slack profiles.) Instead, put in three of your passions or interests into the “What I do” section of your Slack profile as conversation starters instead! **Missing your Slack invite?** Grab the direct sign-up link on [our Eventbrite page](https://2020.srccon.org/signin/).
 
-###Step 2: Add your pronoun pin.
+### Step 2: Add your pronoun pin.
 
 In lieu of physical pins, you can display your pronouns digitally this year! In your SRCCON Slack account and on Zoom, we invite everyone who’s comfortable to add their pronouns to their display names. For example, “Sisi Wei (she/her).” Displaying your pronoun even if you don’t feel like you need one helps create a welcoming space for our colleagues who do (and please, respect other people’s pronouns).
 
-###Step 3: Your map of our facilities.
+### Step 3: Your map of our facilities.
 
 This year, SRCCON will have direct Zoom links for all our talks, sessions, and meetups, and we can create more of them as you sign up to lead your own meetups. Getting a hold of your bearings will be easy though. We’ll be posting direct Zoom links to every event on [our Eventbrite page](https://2020.srccon.org/signin/). Consider it your digital map. Please bookmark it!
 
-###Step 4: Our contact info for questions.
+### Step 4: Our contact info for questions.
 
 If you’ve got general questions about anything, post your question in these two Slack channels:
 
