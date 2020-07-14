@@ -121,23 +121,6 @@
     {
         "break": "y", 
         "day": "Wednesday", 
-        "description": "For one hour a day, we'll have a set of sessions on topics of interest about life at work and outside of it, hobbies, games, and other activities. The sessions will cover a mix of topics and be in different formats, some conversational, some active, some more just listening. Many participants shared about their interests in the call for participation form, which helped us organize this set of sessions. If you'd like to lead one of these sessions, email [erika@opennews.org](mailto:erika@opennews.org).", 
-        "everyone": "", 
-        "facilitators": "", 
-        "facilitators_twitter": "", 
-        "id": "wed-topics", 
-        "length": "", 
-        "notepad": "", 
-        "room": "", 
-        "talk": "", 
-        "time": "3-4pm ET", 
-        "timeblock": "wed-3pm", 
-        "title": "Meetups & activities: Life at work and outside of it", 
-        "transcription": ""
-    }, 
-    {
-        "break": "y", 
-        "day": "Wednesday", 
         "description": "Self-compassion can be really hard. For many people, it’s harder than feeling compassion for other people. You can feel like you don’t deserve it, like being tough on yourself is why you’re successful, like you’ll fall short if you don’t hold yourself to an impossible standard. You might say things to yourself that you would never, ever say to another person. This session is for anyone who is afraid to give themselves a break. \n\nI spent six months reading academic research about how self-doubt, regret, and self-compassion affect a person’s ability to achieve their goals, learn from past experiences, and enjoy their life. Spoiler: Berating yourself doesn’t help. We’ll walk through evidence and strategies for building your self-compassion skills.", 
         "everyone": "", 
         "facilitators": "Hannah Birch", 
@@ -150,6 +133,23 @@
         "time": "3-4pm ET", 
         "timeblock": "wed-3pm", 
         "title": "How to be compassionate toward yourself for at least an hour", 
+        "transcription": ""
+    }, 
+    {
+        "break": "y", 
+        "day": "Wednesday", 
+        "description": "Running and walking outside can be a safe and fun way to alleviate stress and feel better about yourself when so many of our other options are limited due to the impacts of COVID-19 in our communities. We'll answer questions about how to start, ramp up, or return to a running hobby safely, and share creative challenge ideas on how to stay motivated without races.", 
+        "everyone": "", 
+        "facilitators": "Pattie Reaves", 
+        "facilitators_twitter": "", 
+        "id": "wed-running", 
+        "length": "", 
+        "notepad": "", 
+        "room": "", 
+        "talk": "", 
+        "time": "3-4pm ET", 
+        "timeblock": "wed-3pm", 
+        "title": "Running for fun and sanity in the time of COVID", 
         "transcription": ""
     }, 
     {
@@ -359,7 +359,7 @@
     {
         "break": "", 
         "day": "Thursday", 
-        "description": "As Covid-19 touches nearly every beat in the newsroom, what are some of the critical undercovered stories of this moment, and how can journalists tell these stories with nuance and clarity?  What are “better practices” for sourcing public health stories, particularly new scientific research?  As hate speech and public health misinformation increasingly collide, how should journalists cover Covid-19 misinformation?  Discussion will focus on the challenges journalists face in this moment, and how they can step up to the critical task of telling the story of America & the pandemic.   How do we connect institutional racism and inequality that existed before Covid-19, and has deep historical roots, with events unfolding on the ground?", 
+        "description": "As COVID-19 touches nearly every beat in the newsroom, what are some of the critical undercovered stories of this moment, and how can journalists tell these stories with nuance and clarity?  What are “better practices” for sourcing public health stories, particularly new scientific research?  As hate speech and public health misinformation increasingly collide, how should journalists cover COVID-19 misinformation?  Discussion will focus on the challenges journalists face in this moment, and how they can step up to the critical task of telling the story of America & the pandemic.   How do we connect institutional racism and inequality that existed before COVID-19, and has deep historical roots, with events unfolding on the ground?", 
         "everyone": "", 
         "facilitators": "Smitha Khorana", 
         "facilitators_twitter": "", 
@@ -370,7 +370,7 @@
         "talk": "", 
         "time": "4-5:15pm ET", 
         "timeblock": "thu-4pm", 
-        "title": "Reporting on Inequality & Public Health During Covid-19", 
+        "title": "Reporting on Inequality & Public Health During COVID-19", 
         "transcription": "y"
     }, 
     {
@@ -473,23 +473,6 @@
         "time": "6:15-7pm ET", 
         "timeblock": "thu-615pm", 
         "title": "Break (+ optional chill & social time)", 
-        "transcription": ""
-    }, 
-    {
-        "break": "y", 
-        "day": "Thursday", 
-        "description": "For one hour a day, we'll have a set of sessions on topics of interest about life at work and outside of it, hobbies, games, and other activities. The sessions will cover a mix of topics and be in different formats, some conversational, some active, some more just listening. Many participants shared about their interests in the call for participation form, which helped us organize this set of sessions. If you'd like to lead one of these sessions, email [erika@opennews.org](mailto:erika@opennews.org).", 
-        "everyone": "", 
-        "facilitators": "", 
-        "facilitators_twitter": "", 
-        "id": "thu-topics", 
-        "length": "", 
-        "notepad": "", 
-        "room": "", 
-        "talk": "", 
-        "time": "7-8pm ET", 
-        "timeblock": "thu-7pm", 
-        "title": "Meetups & activities: Life at work and outside of it", 
         "transcription": ""
     }, 
     {
