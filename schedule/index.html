@@ -168,8 +168,6 @@
                             <span class="session-time"><strong>Day & Time:</strong> <% if (session.day) { %><%= session.day %>, <% } %><%= session.time %></span>
                         </p>
                         <% } %>
-                        <% if (session.transcription) { %><p><i class="fa fa-cc"></i> <strong><a href="/transcripts/SRCCON2019-<%= session.id %>">Live transcript of this session</a></strong></p><% } %>
-                        <% if (session.notepad) { %><p><i class="fa fa-file-text-o"></i> <strong><a href="https://etherpad.opennews.org/p/SRCCON2019-<%= session.id %>">Session notes & resources</a></strong></p><% } %>
                         <% if (session.description) { %><%= marked(session.description) %><% } %>
 
                         <% if (session.twitter) { %>
