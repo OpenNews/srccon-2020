@@ -15,6 +15,7 @@ Projects cover everything from technical tools for journalism to frameworks for 
 * [Big Local News](#big-local)
 * [Datasette](#datasette)
 * [Election SOS](#election)
+* [Memberkit](#memberkit)
 * [Product Kit from News Catalyst](#product-kit)
 * [The Quilt: Policy, Art, and Healing](#the-quilt)
 * [Systems Thinking for Journalists from Journalism + Design](#systems-thinking)
@@ -63,7 +64,7 @@ Demos from the video:
 * [More demos here](https://github.com/simonw/datasette/wiki/Datasettes)
 
 
-<span style="margin-top: 2em;" id="election"></span>
+<span id="election"></span>
 ## Election SOS
 
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin-bottom: 1em; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://player.vimeo.com/video/438574876' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>
@@ -71,6 +72,16 @@ Demos from the video:
 Election SOS offers free training for journalists, connecting them to best practices, resources, and support around election coverage.
 
 * [Election SOS](https://electionsos.com/)
+
+
+<span id="memberkit"></span>
+## Memberkit
+
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin-bottom: 1em; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://player.vimeo.com/video/438642840' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>
+
+
+* [Memberkit 1.0: Upgrade your analytics and build a data-powered membership program](https://source.opennews.org/articles/memberkit-upgrade-your-analytics/)
+* [All the Memberkit docs](https://drive.google.com/drive/folders/1cx2qfNNB_Z1yG3echS_BmxCbcygPfhOu)
 
 
 <span id="product-kit"></span>
