@@ -14,6 +14,7 @@ Projects cover everything from technical tools for journalism to frameworks for 
 * [The Accountability Project](#accountability-project)
 * [Big Local News](#big-local)
 * [Datasette](#datasette)
+* [Election SOS](#election)
 * [Product Kit from News Catalyst](#product-kit)
 * [The Quilt: Policy, Art, and Healing](#the-quilt)
 * [Systems Thinking for Journalists from Journalism + Design](#systems-thinking)
@@ -60,6 +61,16 @@ Demos from the video:
 * [SBA loans](https://sba-loans-covid-19.datasettes.com/) & [how it was built](https://github.com/simonw/sba-loans-covid-19-datasette)
 * [COVID-19 cases and deaths, with the datasette-vega charting plugin](https://covid-19.datasettes.com/) & [how that works](https://github.com/simonw/covid-19-datasette)
 * [More demos here](https://github.com/simonw/datasette/wiki/Datasettes)
+
+
+<span style="margin-top: 2em;" id="election"></span>
+## Election SOS
+
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin-bottom: 1em; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://player.vimeo.com/video/438574876' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>
+
+Election SOS offers free training for journalists, connecting them to best practices, resources, and support around election coverage.
+
+* [Election SOS](https://electionsos.com/)
 
 
 <span id="product-kit"></span>
