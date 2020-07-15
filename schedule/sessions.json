@@ -138,23 +138,6 @@
     {
         "break": "y", 
         "day": "Wednesday", 
-        "description": "Running and walking outside can be a safe and fun way to alleviate stress and feel better about yourself when so many of our other options are limited due to the impacts of COVID-19 in our communities. We'll answer questions about how to start, ramp up, or return to a running hobby safely, and share creative challenge ideas on how to stay motivated without races.", 
-        "everyone": "", 
-        "facilitators": "Pattie Reaves", 
-        "facilitators_twitter": "", 
-        "id": "wed-running", 
-        "length": "", 
-        "notepad": "", 
-        "room": "", 
-        "talk": "", 
-        "time": "3-4pm ET", 
-        "timeblock": "wed-3pm", 
-        "title": "Running for fun and sanity in the time of COVID", 
-        "transcription": ""
-    }, 
-    {
-        "break": "y", 
-        "day": "Wednesday", 
         "description": "Welcome to management! Do you feel well prepared and supported? Chances are that you were promoted to manager because you performed well as an individual contributor, but few places are equipped to properly train and develop managers to lead teams, make positive change in the workplace and deal with leadership--and managers of color are even more in the minority.\n\nElite Truong, the deputy editor of strategic initiatives at The Washington Post, will lead a one-hour managers’ roundtable with topics including the responsibility of hiring diverse and talented people, professional development for managers and building a support network now that you’re leading a team, ending with plenty of time for sharing and peer Q&A.", 
         "everyone": "", 
         "facilitators": "Elite Truong", 
@@ -541,6 +524,23 @@
         "time": "7-8pm ET", 
         "timeblock": "thu-7pm", 
         "title": "The Impossible Dream: Homeschooling while working and feeling mostly OK", 
+        "transcription": ""
+    }, 
+    {
+        "break": "y", 
+        "day": "Thursday", 
+        "description": "Running and walking outside can be a safe and fun way to alleviate stress and feel better about yourself when so many of our other options are limited due to the impacts of COVID-19 in our communities. We'll answer questions about how to start, ramp up, or return to a running hobby safely, and share creative challenge ideas on how to stay motivated without races.", 
+        "everyone": "", 
+        "facilitators": "Pattie Reaves", 
+        "facilitators_twitter": "", 
+        "id": "thu-running", 
+        "length": "", 
+        "notepad": "", 
+        "room": "", 
+        "talk": "", 
+        "time": "7-8pm ET", 
+        "timeblock": "thu-7pm", 
+        "title": "Running for fun and sanity in the time of COVID", 
         "transcription": ""
     }, 
     {
