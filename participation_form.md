@@ -6,9 +6,6 @@ title: Call for participation
 
 # Call for participation
 
-SRCCON 2020 is already under way, but it's not too late to join us! You can read [more about the many ways to participate](/attendees), or if you're all set, the participation form is below!
+SRCCON 2020 is officially sold out. Thank you so much for your interest. To get notified ASAP when we host our future SRCCON:TOPIC or annual SRCCON events, [sign up for our newsletter](https://opennews.us5.list-manage.com/subscribe?u=71c95e9a43708843d2fdc1f09&id=996e9290cc)!
 
-<script>window.jQuery || document.write('<script src="//code.jquery.com/jquery-2.2.3.min.js"><\/script>')</script><link href="//d3q1ytufopwvkq.cloudfront.net/1/formrenderer.css" rel="stylesheet" /><script src="//d3q1ytufopwvkq.cloudfront.net/1/formrenderer.js"></script>
-<form data-formrenderer>This form requires JavaScript to complete.</form>
-<p style="font-size:.67em;margin-top:1em;">Powered by <a href='https://www.dobt.co/screendoor/'>Screendoor</a>.</p>
-<script>new FormRenderer({"project_id":"Tw4G4KF13YDKkL2E", "afterSubmit": "/participation/thanks"});</script>
+
