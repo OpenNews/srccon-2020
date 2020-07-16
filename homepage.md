@@ -8,33 +8,32 @@ permalink: /
 **[Check out the schedule for SRCCON 2020!](/schedule)**
 
 * **Registered attendees:** You can start participating right now. [All the sign-in links are here on Eventbrite](https://2020.srccon.org/signin).
-* **Want to join us?** [It's not too late](/participation/form). 
 
-Here's our program for the week, and how you can still get involved.
+Here's our program for the week:
 
 #### The Program (Wednesday-Friday, July 15-17)
 
 * **Talks:** The six talks on our program this year create a common foundation to build on during conversations throughout the week. SRCCON participants can watch them in advance and submit questions ahead of time, or join us live to watch the talks, listen to some fun intros for the speakers, and participate in live Q&As with the speakers.
 * **Sessions:** Participatory sessions create space to get into the biggest problems facing journalism, together. Community members will facilitate peer conversations and hands-on workshops that draw on the experience of every attendee in the (Zoom) room.
 * **Meetups & group conversations:** SRCCON makes time for study groups, "birds of a feather" meetups, hobby workshops, and gatherings on just about any topic you can think of. Some are on the schedule, some will happen in the Slack, and others will emerge organically throughout the week.
-* **More ways to get involved:** We’ve invited the folks behind some amazing projects to share intro videos and demos for you to explore in advance. Each project has a Slack channel, and they’ll be available throughout SRCCON to meet up for 1-1 or group conversations. If you'd like to participate in these conversations, [join us at SRCCON](/participation/form)!
+* **More ways to get involved:** We’ve invited the folks behind some amazing projects to share intro videos and demos for you to explore in advance. Each project has a Slack channel, and they’ll be available throughout SRCCON to meet up for 1-1 or group conversations.
 
 <ul class="action-links">
-    <li>👉 <a href="/participation/form">Sign up for SRCCON</a></li>
     <li>🗓 <a href="/schedule">Check the schedule</a></li>
 </ul>
 
 #### The SRCCON Slack (Monday-Friday, July 13-17)
 
-Every SRCCON is a community—this year's just happens to be connecting online. Our weeklong event Slack is a space to meet other attendees, share and discover projects, follow up on sessions, and find emergent conversations. Fill out our [call for participation](/participation/form) to join us!
+Every SRCCON is a community—this year's just happens to be connecting online. Our weeklong event Slack is a space to meet other attendees, share and discover projects, follow up on sessions, and find emergent conversations.
 
+<!--
 ### How to be a part of SRCCON 2020
 
 **[Our call for participation form is still open!](/participation/form)** If you’d like to attend SRCCON 2020, this is how to let us know. Even after SRCCON has already started, we'll be going through this form _at least_ once per day, so you'll still be able to join us midway through.
 
 This year will be our first digital SRCCON, and we're building an online space based on what we collectively value about the physical experience. The event program will take place over the course of three days, with a mix of sessions you'll be able to participate in live and asynchronously, largely between the hours of 9am-9pm ET to accommodate participation from as many time zones as possible.
 
-Two easy ways to stay up to date: [@srccon on Twitter](https://twitter.com/srccon) / [our newsletter](https://opennews.us5.list-manage.com/subscribe?u=71c95e9a43708843d2fdc1f09&id=996e9290cc)
+Two easy ways to stay up to date: [@srccon on Twitter](https://twitter.com/srccon) / [our newsletter](https://opennews.us5.list-manage.com/subscribe?u=71c95e9a43708843d2fdc1f09&id=996e9290cc)-->
 
 ### About SRCCON 2020
 
