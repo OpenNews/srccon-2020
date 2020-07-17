@@ -3,13 +3,11 @@ section: homepage
 permalink: /
 ---
 
-### Welcome to SRCCON week!
+### Thank you, everyone!
 
-**[Check out the schedule for SRCCON 2020!](/schedule)**
+SRCCON, there's no way we can thank you enough for the week we just spent together. You created an unforgettable space to talk about our hopes for journalism—what we'll burn down and what we'll build, and how we can be in community through it all.
 
-* **Registered attendees:** You can start participating right now. [All the sign-in links are here on Eventbrite](https://2020.srccon.org/signin).
-
-Here's our program for the week:
+We're going to take a minute to celebrate the beautiful things you shared. The SRCCON Slack will be open for a week after the conference, and we invite you to grab anything you learned and loved and take it with you!
 
 #### The Program (Wednesday-Friday, July 15-17)
 
