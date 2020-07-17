@@ -3,7 +3,7 @@ section: homepage
 permalink: /
 ---
 
-### Thank you, everyone!
+### That. Was. Amazing.
 
 SRCCON, there's no way we can thank you enough for the week we just spent together. You created an unforgettable space to talk about our hopes for journalism—what we'll burn down and what we'll build, and how we can be in community through it all.
 
