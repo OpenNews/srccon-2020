@@ -9,6 +9,8 @@ SRCCON, there's no way we can thank you enough for the week we just spent togeth
 
 We're going to take a minute to celebrate the beautiful things you shared. The SRCCON Slack will be open for a week after the conference, and we invite you to grab anything you learned and loved and take it with you!
 
+### About SRCCON 2020
+
 #### The Program (Wednesday-Friday, July 15-17)
 
 * **Talks:** The six talks on our program this year create a common foundation to build on during conversations throughout the week. SRCCON participants can watch them in advance and submit questions ahead of time, or join us live to watch the talks, listen to some fun intros for the speakers, and participate in live Q&As with the speakers.
