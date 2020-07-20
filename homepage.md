@@ -7,7 +7,9 @@ permalink: /
 
 SRCCON, there's no way we can thank you enough for the week we just spent together. You created an unforgettable space to talk about our hopes for journalism—what we'll burn down and what we'll build, and how we can be in community through it all.
 
-We're going to take a minute to celebrate the beautiful things you shared. The SRCCON Slack will be open for a week after the conference, and we invite you to grab anything you learned and loved and take it with you!
+We're going to take a minute to celebrate the beautiful things you shared. The SRCCON Slack will be open for a week after the conference, and we invite you to grab anything you learned and loved and take it with you.
+
+If you're thinking about how to share what you learned at SRCCON with your newsroom, [the After Party toolkit](https://srccon.org/share/) created by Emma Carew Grovum is full of great ideas!
 
 ### About SRCCON 2020
 
@@ -20,6 +22,7 @@ We're going to take a minute to celebrate the beautiful things you shared. The S
 
 <ul class="action-links">
     <li>🗓 <a href="/schedule">Check the schedule</a></li>
+    <li>👉 <a href="/attendee-faq">Attendee FAQ</a></li>
 </ul>
 
 #### The SRCCON Slack (Monday-Friday, July 13-17)
