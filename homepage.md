@@ -3,17 +3,27 @@ section: homepage
 permalink: /
 ---
 
-### That. Was. Amazing.
+### ABOUT SRCCON 2020
 
-SRCCON, there's no way we can thank you enough for the week we just spent together. You created an unforgettable space to talk about our hopes for journalism—what we'll burn down and what we'll build, and how we can be in community through it all.
+At SRCCON 2020, participants created an unforgettable space to talk about our hopes for journalism—what we’ll burn down and what we’ll build, and how we can be in community through it all.
 
-We're going to take a minute to celebrate the beautiful things you shared. The SRCCON Slack will be open for a week after the conference, and we invite you to grab anything you learned and loved and take it with you.
+#### Here's what we did
 
-If you're thinking about how to share what you learned at SRCCON with your newsroom, [the After Party toolkit](https://srccon.org/share/) created by Emma Carew Grovum is full of great ideas!
+* Gathered for six talks that challenged the status quo in journalism, pushing us to listen to new voices, shift power into new places, and wield the power we already have to push for change
+* Came together for 23 interactive sessions and workshops, teaching each other about new tools and techniques for journalism in 2020, how to be there for the communities we're part of and the people we work with, and how to make our newsrooms more equitable places for everyone
+* Led more than 20 meetups, hobby sessions, and conversations on everything from freelance journalism and product development to woodworking, D&D, and homeschooling during a pandemic
+* Came together from across the U.S. and the world, representing 13 time zones from the United States to Seoul to São Paulo to Berlin to Sydney
+* Connected throughout the week in the SRCCON Slack: a pop-up community with 50+ channels created by attendees to keep talking after sessions wrapped up and organize around shared interests and goals
 
-### About SRCCON 2020
+#### And here's what you said
 
-#### The Program (Wednesday-Friday, July 15-17)
+* "What I love about SRCCON is how much it changes my notions of what's possible."
+* "I liked that people were addressing all of the diversity and objectivity issues that big-j Journalism is trying so hard to ignore.... It felt good to get uncomfortable."
+* "The care that was taken to make sure people could speak freely about their workplaces was an awesome equalizer in conversations. I didn't have any preconceptions about someone because I didn't know where they worked or what their role was, and vice versa."
+
+### About the program
+
+#### Wednesday-Friday, July 15-17, 2020
 
 * **Talks:** The six talks on our program this year create a common foundation to build on during conversations throughout the week. SRCCON participants can watch them in advance and submit questions ahead of time, or join us live to watch the talks, listen to some fun intros for the speakers, and participate in live Q&As with the speakers.
 * **Sessions:** Participatory sessions create space to get into the biggest problems facing journalism, together. Community members will facilitate peer conversations and hands-on workshops that draw on the experience of every attendee in the (Zoom) room.
@@ -21,13 +31,9 @@ If you're thinking about how to share what you learned at SRCCON with your newsr
 * **More ways to get involved:** We’ve invited the folks behind some amazing projects to share intro videos and demos for you to explore in advance. Each project has a Slack channel, and they’ll be available throughout SRCCON to meet up for 1-1 or group conversations.
 
 <ul class="action-links">
-    <li>🗓 <a href="/schedule">Check the schedule</a></li>
+    <li>🗓 <a href="/schedule">The schedule</a></li>
     <li>👉 <a href="/attendee-faq">Attendee FAQ</a></li>
 </ul>
-
-#### The SRCCON Slack (Monday-Friday, July 13-17)
-
-Every SRCCON is a community—this year's just happens to be connecting online. Our weeklong event Slack is a space to meet other attendees, share and discover projects, follow up on sessions, and find emergent conversations.
 
 <!--
 ### How to be a part of SRCCON 2020
@@ -38,7 +44,7 @@ This year will be our first digital SRCCON, and we're building an online space b
 
 Two easy ways to stay up to date: [@srccon on Twitter](https://twitter.com/srccon) / [our newsletter](https://opennews.us5.list-manage.com/subscribe?u=71c95e9a43708843d2fdc1f09&id=996e9290cc)-->
 
-### About SRCCON 2020
+### What you can expect
 
 SRCCON 2020 will be fully online and in the midst of both a global crisis and a reckoning within journalism. We expect that in some ways, it will be unlike any event we’ve held before. What we do know, however, is that SRCCON 2020 will remain a unique, accessible, and inclusive event that hosts frank, challenging, nurturing, and creative conversations that need to be had.
 
