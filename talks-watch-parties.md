@@ -53,7 +53,7 @@ Sign-up links COMING SOON:
     <li>👉 Sign-up coming soon</li>
     <li>🧡 Presented with <a href="https://www.poynter.org/">Poynter</a>.</li>
   </ul>
-  * **<span class="week-name">Week 5</span> Thursday, Sept. 17: Tasneem Raja in conversation with Candice Fortman**, on the joys and challenges of being a woman of color leading her own newsroom, while working within an ecosystem of racist policies and institutions. Tasneem and Candice will be there for live Q&A.
+  * **<span class="week-name">Week 5</span> Thursday, Sept. 17: Tasneem Raja in conversation with Candice Fortman**, on the joys and challenges of being a woman of color leading her own newsroom, while working within an ecosystem of racist policies and institutions. Tasneem and Candice will be there for live Q&A. This talk will be made fully public after the watch party.
   <ul class="action-links">
     <li>🗓 Thursday, Aug. 27</li><br>
     <li>👉 Sign-up coming soon</li>
