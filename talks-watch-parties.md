@@ -35,6 +35,7 @@ Once a week for five weeks, we’ll host a free watch party, featuring one of ou
 
 Sign-up links COMING SOON:
 
+  * **Thursday, Aug. 27: Moiz Syed and Ellis Simani** on objectivity, privilege, and how both bleed into how journalism interacts with protests. Moiz and Ellis will be there for live Q&A.
   * **Thursday, Sept. 3: John Hernandez** on burning it all down, and the problematic, inherited cultures imbued within journalism. John will be there for live Q&A. 
   * **Thursday, Sept. 10: Doris Truong and Samantha Ragland** on how no matter where you are on your organization’s ladder, you have agency and power. Doris and Samantha will be there for live Q&A. Presented with Poynter. This talk will be made fully public after the watch party.
   * **Thursday, Sept. 17: Tasneem Raja in conversation with Candice Fortman**, on the joys and challenges of being a woman of color leading her own newsroom, while working within an ecosystem of racist policies and institutions. Tasneem and Candice will be there for live Q&A.
