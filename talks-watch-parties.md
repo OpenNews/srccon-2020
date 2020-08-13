@@ -28,7 +28,7 @@ Once a week for five weeks, we’ll host a free watch party, featuring one of ou
 
   * **Thursday, Aug. 20: Alicia Bell and Tauhid Chappell** on campaigning and organizing as journalists and inside our own organizations. Party goes from 1-2 p.m. ET. Alicia and Tauhid will be there for live Q&A.
   <ul class="action-links">
-    <li>👉 <a href="">Sign-up here</a></li>
+    <li>👉 <a href="https://docs.google.com/forms/d/e/1FAIpQLSeJBLzRd6Ynmw5rLLK4lyI_z8hG83FaUK80IEBj964Nd-MUuA/viewform">Sign-up here</a></li>
     <li>🧡 Presented with the <a href="https://www.freepress.net/">Free Press</a>.</li>
   </ul>
 
