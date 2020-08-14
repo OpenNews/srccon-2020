@@ -8,18 +8,13 @@ description: We’re replaying five talks from SRCCON 2020 for the public. Join 
 <style type="text/css">
   .action-links {margin-top: -0.5em;}
   span.week-name {color: #fc6e1f;}
-  .action-links img.free-press {
+  .action-links img {
     width: 110px;
-    background-color: #150e33;
-    padding: 7px;
     display: inline-block;
-    margin: 0 0 -10px 5px;
+    margin: 0 0 -10px 0px;
   }
-  .action-links img.poynter {
-    width: 120px;
-    display: inline-block;
-    margin: 0 0 -15px 0px;
-  }
+  img.poynter {margin-bottom:-13px;}
+  img.media-2070 {width: 75px;}
 </style>
 
 # SRCCON Talks Watch Parties 🎉
@@ -43,7 +38,7 @@ Once a week for five weeks, we’ll host a free watch party, featuring one of ou
   <ul class="action-links">
     <li>🗓 Thursday, Aug. 20, 1-2 p.m. ET</li><br>
     <li>👉 <a href="https://docs.google.com/forms/d/e/1FAIpQLSeJBLzRd6Ynmw5rLLK4lyI_z8hG83FaUK80IEBj964Nd-MUuA/viewform">Sign-up here</a></li>
-    <li>🧡 Presented with the <a href="https://www.freepress.net/"><img class="free-press" src="/media/img/partners/free-press.png"></a></li>
+    <li>🧡 Presented with <a href="https://www.freepress.net/"><img class="free-press" src="/media/img/partners/free-press.png"></a> <a href="https://act.freepress.net/sign/media_2070/"><img class="media-2070" src="/media/img/partners/media-2070.png"></a></li>
   </ul>
 
 Sign-up links COMING SOON:
