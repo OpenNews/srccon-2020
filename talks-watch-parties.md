@@ -8,6 +8,18 @@ description: We’re replaying five talks from SRCCON 2020 for the public. Join 
 <style type="text/css">
   .action-links {margin-top: -0.5em;}
   span.week-name {color: #fc6e1f;}
+  .action-links img.free-press {
+    width: 110px;
+    background-color: #150e33;
+    padding: 7px;
+    display: inline-block;
+    margin: 0 0 -10px 5px;
+  }
+  .action-links img.poynter {
+    width: 120px;
+    display: inline-block;
+    margin: 0 0 -15px 0px;
+  }
 </style>
 
 # SRCCON Talks Watch Parties 🎉
@@ -31,9 +43,8 @@ Once a week for five weeks, we’ll host a free watch party, featuring one of ou
   <ul class="action-links">
     <li>🗓 Thursday, Aug. 20, 1-2 p.m. ET</li><br>
     <li>👉 <a href="https://docs.google.com/forms/d/e/1FAIpQLSeJBLzRd6Ynmw5rLLK4lyI_z8hG83FaUK80IEBj964Nd-MUuA/viewform">Sign-up here</a></li>
-    <li>🧡 Presented with the <a href="https://www.freepress.net/">Free Press</a>.</li>
+    <li>🧡 Presented with the <a href="https://www.freepress.net/"><img class="free-press" src="/media/img/partners/free-press.png"></a></li>
   </ul>
-
 
 Sign-up links COMING SOON:
 
@@ -51,7 +62,7 @@ Sign-up links COMING SOON:
   <ul class="action-links">
     <li>🗓 Thursday, Sept. 10</li><br>
     <li>👉 Sign-up coming soon</li>
-    <li>🧡 Presented with <a href="https://www.poynter.org/">Poynter</a>.</li>
+    <li>🧡 Presented with <a href="https://www.poynter.org/"><img class="poynter" src="/media/img/partners/poynter.png"></a></li>
   </ul>
   * **<span class="week-name">Week 5</span> Thursday, Sept. 17: Tasneem Raja in conversation with Candice Fortman**, on the joys and challenges of being a woman of color leading her own newsroom, while working within an ecosystem of racist policies and institutions. Tasneem and Candice will be there for live Q&A. This talk will be made fully public after the watch party.
   <ul class="action-links">
