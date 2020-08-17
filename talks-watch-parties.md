@@ -13,8 +13,7 @@ description: We’re replaying five talks from SRCCON 2020 for the public. Join 
     display: inline-block;
     margin: 0 0 -10px 0px;
   }
-  .action-links li { display: block; }
-  .action-links .logos { display: block; margin: 0 0 0 30px; }
+  ul.action-links li { display: block; }
   img.poynter {margin-bottom:-13px;}
   img.media-2070 {width: 75px;}
   form.fr_form {
@@ -35,7 +34,9 @@ description: We’re replaying five talks from SRCCON 2020 for the public. Join 
     top: 8px;
   }
   .fr_response_field label { padding-bottom: 0.70em; }
-  .fr_description { padding-top: 1em; }
+  .fr_description { padding-top: 0em;
+    font-style: normal;
+    color: #888; }
 </style>
 
 # SRCCON Talks Watch Parties 🎉
@@ -59,32 +60,29 @@ Once a week for five weeks, we’ll host a free watch party, featuring one of ou
 
 Here's the schedule:
 
-* **<span class="week-name">Week 1:</span> Moiz Syed and Ellis Simani** on objectivity, privilege, and how we report on protests. Reflecting on another year of Black Lives Matter protests and the coverage that ensued, this talk explores the history of our industry, the ideals it upholds, and the deep fault lines running through our newsrooms as they fail to accurately represent the diversity of our people. Moiz and Ellis will be there for live Q&A.
+* **<span class="week-name">Week 1:</span> Alicia Bell and Tauhid Chappell** on campaigning and organizing as journalists and inside our own organizations. Alicia and Tauhid will be there for live Q&A. <a href="#sign-up">Sign up below!</a>
+<ul class="action-links">
+  <li>🗓 Thursday, Aug. 20, 1-2 p.m. ET</li>
+  <li>🧡 Presented with: <a href="https://www.freepress.net/"><img class="free-press" src="/media/img/partners/free-press.png"></a> <a href="https://act.freepress.net/sign/media_2070/"><img class="media-2070" src="/media/img/partners/media-2070.png"></a></li>
+</ul>
+* **<span class="week-name">Week 2:</span> Moiz Syed and Ellis Simani** on objectivity, privilege, and how we report on protests. Reflecting on another year of Black Lives Matter protests and the coverage that ensued, this talk explores the history of our industry, the ideals it upholds, and the deep fault lines running through our newsrooms as they fail to accurately represent the diversity of our people. Moiz and Ellis will be there for live Q&A. <a href="#sign-up">Sign up below!</a>
 <ul class="action-links">
   <li>🗓 Thursday, Aug. 27, 1-2 p.m. ET</li>
-  <li>👇 <a href="#sign-up">Sign up below!</a></li>
 </ul>
-* **<span class="week-name">Week 2:</span> John Hernandez** on burning it all down, and the problematic, inherited cultures imbued within journalism. John will be there for live Q&A. 
+* **<span class="week-name">Week 3:</span> John Hernandez** on burning it all down, and the problematic, inherited cultures imbued within journalism. John will be there for live Q&A. <a href="#sign-up">Sign up below!</a>
 <ul class="action-links">
   <li>🗓 Thursday, Sept. 3</li>
-  <li>👇 <a href="#sign-up">Sign up below!</a></li>
 </ul>
-* **<span class="week-name">Week 3:</span> Doris Truong and Samantha Ragland** on how no matter where you are on your organization’s ladder, you have agency and power. Doris and Samantha will be there for live Q&A. This talk will be made fully public after the watch party.
+* **<span class="week-name">Week 4:</span> Doris Truong and Samantha Ragland** on how no matter where you are on your organization’s ladder, you have agency and power. Doris and Samantha will be there for live Q&A. <a href="#sign-up">Sign up below!</a>
 <ul class="action-links">
   <li>🗓 Thursday, Sept. 10</li>
-  <li>👇 <a href="#sign-up">Sign up below!</a></li>
+  <li>📽 This talk will be made fully public after the watch party.</li>
   <li>🧡 Presented with <a href="https://www.poynter.org/"><img class="poynter" src="/media/img/partners/poynter.png"></a></li>
 </ul>
-* **<span class="week-name">Week 4:</span> Tasneem Raja in conversation with Candice Fortman**, on the joys and challenges of being a woman of color leading her own newsroom, while working within an ecosystem of racist policies and institutions. Tasneem and Candice will be there for live Q&A. This talk will be made fully public after the watch party.
+* **<span class="week-name">Week 5:</span> Tasneem Raja in conversation with Candice Fortman**, on the joys and challenges of being a woman of color leading her own newsroom, while working within an ecosystem of racist policies and institutions. Tasneem and Candice will be there for live Q&A. <a href="#sign-up">Sign up below!</a>
 <ul class="action-links">
   <li>🗓 Thursday, Sept. 17</li>
-  <li>👇 <a href="#sign-up">Sign up below!</a></li>
-</ul>
-* **<span class="week-name">Week 5:</span> Alicia Bell and Tauhid Chappell** on campaigning and organizing as journalists and inside our own organizations. Alicia and Tauhid will be there for live Q&A.
-<ul class="action-links">
-  <li>🗓 Thursday, Sept. 24, 1-2 p.m. ET</li>
-  <li>👇 <a href="#sign-up">Sign up below!</a></li>
-  <li>🧡 Presented with: <span class="logos"><a href="https://www.freepress.net/"><img class="free-press" src="/media/img/partners/free-press.png"></a> <a href="https://act.freepress.net/sign/media_2070/"><img class="media-2070" src="/media/img/partners/media-2070.png"></a></span></li>
+  <li>📽 This talk will be made fully public after the watch party.</li>
 </ul>
 
 Want to partner and co-host one of the talks? [Email us!](mailto:sisi@opennews.org) 
