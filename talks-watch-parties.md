@@ -69,7 +69,7 @@ Sign-up links COMING SOON:
     <li>👉 <a href="https://docs.google.com/forms/d/e/1FAIpQLSd3hUTYaEs6g1fmTK5Qd9nEPGDA6zLwR95z7y9xHdPmmq69ng/viewform">Get notified when sign-ups open</a></li>
   </ul>
 
-Want to partner and co-host one of the talks? [Email us!](mailto:sisi@opennews.org) Want to make sure you’re notified when sign-ups for public watch parties are available? Sign up for the [OpenNews community newsletter](https://opennews.us5.list-manage.com/subscribe?u=71c95e9a43708843d2fdc1f09&id=996e9290cc).
+Want to partner and co-host one of the talks? [Email us!](mailto:sisi@opennews.org) Want to make sure you’re notified when sign-ups for public watch parties are available? <a href="https://docs.google.com/forms/d/e/1FAIpQLSd3hUTYaEs6g1fmTK5Qd9nEPGDA6zLwR95z7y9xHdPmmq69ng/viewform">Get notified when sign-ups open</a>.
 
 ### Do it yourself
 
