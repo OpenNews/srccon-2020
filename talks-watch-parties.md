@@ -17,6 +17,25 @@ description: We’re replaying five talks from SRCCON 2020 for the public. Join 
   .action-links .logos { display: block; margin: 0 0 0 30px; }
   img.poynter {margin-bottom:-13px;}
   img.media-2070 {width: 75px;}
+  form.fr_form {
+    padding: 0 0 0 30px;
+    font-size: 0.85em;
+    font-family: sofia-pro, sans-serif;
+    border-left: 10px solid #fc6d1f17;
+  }
+  label.fr_option.control, .fr_other_option label {
+    margin-left: 30px;
+    position: relative;
+  }
+  input[type="checkbox"] {
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    left: -30px;
+    top: 8px;
+  }
+  .fr_response_field label { padding-bottom: 0.70em; }
+  .fr_description { padding-top: 1em; }
 </style>
 
 # SRCCON Talks Watch Parties 🎉
@@ -38,42 +57,48 @@ Once a week for five weeks, we’ll host a free watch party, featuring one of ou
 
 **Please note:** Watch parties will only be available live and will NOT be recorded. Can't make it or interested in setting up a re-watch with your team or org? <a href="#do-it-yourself">You've got options.</a> 
 
-  * **<span class="week-name">Week 1:</span> Alicia Bell and Tauhid Chappell** on campaigning and organizing as journalists and inside our own organizations. Alicia and Tauhid will be there for live Q&A.
-  <ul class="action-links">
-    <li>👉 <a href="https://docs.google.com/forms/d/e/1FAIpQLSeJBLzRd6Ynmw5rLLK4lyI_z8hG83FaUK80IEBj964Nd-MUuA/viewform">Sign-up here</a></li>
-    <li>🗓 Thursday, Aug. 20, 1-2 p.m. ET</li>
-    <li>🧡 Presented with: <span class="logos"><a href="https://www.freepress.net/"><img class="free-press" src="/media/img/partners/free-press.png"></a> <a href="https://act.freepress.net/sign/media_2070/"><img class="media-2070" src="/media/img/partners/media-2070.png"></a></span></li>
-  </ul>
+Here's the schedule:
 
-Sign-up links COMING SOON:
+* **<span class="week-name">Week 1:</span> Moiz Syed and Ellis Simani** on objectivity, privilege, and how we report on protests. Reflecting on another year of Black Lives Matter protests and the coverage that ensued, this talk explores the history of our industry, the ideals it upholds, and the deep fault lines running through our newsrooms as they fail to accurately represent the diversity of our people. Moiz and Ellis will be there for live Q&A.
+<ul class="action-links">
+  <li>🗓 Thursday, Aug. 27, 1-2 p.m. ET</li>
+  <li>👇 <a href="#sign-up">Sign up below!</a></li>
+</ul>
+* **<span class="week-name">Week 2:</span> John Hernandez** on burning it all down, and the problematic, inherited cultures imbued within journalism. John will be there for live Q&A. 
+<ul class="action-links">
+  <li>🗓 Thursday, Sept. 3</li>
+  <li>👇 <a href="#sign-up">Sign up below!</a></li>
+</ul>
+* **<span class="week-name">Week 3:</span> Doris Truong and Samantha Ragland** on how no matter where you are on your organization’s ladder, you have agency and power. Doris and Samantha will be there for live Q&A. This talk will be made fully public after the watch party.
+<ul class="action-links">
+  <li>🗓 Thursday, Sept. 10</li>
+  <li>👇 <a href="#sign-up">Sign up below!</a></li>
+  <li>🧡 Presented with <a href="https://www.poynter.org/"><img class="poynter" src="/media/img/partners/poynter.png"></a></li>
+</ul>
+* **<span class="week-name">Week 4:</span> Tasneem Raja in conversation with Candice Fortman**, on the joys and challenges of being a woman of color leading her own newsroom, while working within an ecosystem of racist policies and institutions. Tasneem and Candice will be there for live Q&A. This talk will be made fully public after the watch party.
+<ul class="action-links">
+  <li>🗓 Thursday, Sept. 17</li>
+  <li>👇 <a href="#sign-up">Sign up below!</a></li>
+</ul>
+* **<span class="week-name">Week 5:</span> Alicia Bell and Tauhid Chappell** on campaigning and organizing as journalists and inside our own organizations. Alicia and Tauhid will be there for live Q&A.
+<ul class="action-links">
+  <li>🗓 Thursday, Sept. 24, 1-2 p.m. ET</li>
+  <li>👇 <a href="#sign-up">Sign up below!</a></li>
+  <li>🧡 Presented with: <span class="logos"><a href="https://www.freepress.net/"><img class="free-press" src="/media/img/partners/free-press.png"></a> <a href="https://act.freepress.net/sign/media_2070/"><img class="media-2070" src="/media/img/partners/media-2070.png"></a></span></li>
+</ul>
 
-  * **<span class="week-name">Week 2:</span> Moiz Syed and Ellis Simani** on objectivity, privilege, and how we report on protests. Reflecting on another year of Black Lives Matter protests and the coverage that ensued, this talk explores the history of our industry, the ideals it upholds, and the deep fault lines running through our newsrooms as they fail to accurately represent the diversity of our people. Moiz and Ellis will be there for live Q&A.
-  <ul class="action-links">
-    <li>🗓 Thursday, Aug. 27</li>
-    <li>👉 <a href="https://docs.google.com/forms/d/e/1FAIpQLSd3hUTYaEs6g1fmTK5Qd9nEPGDA6zLwR95z7y9xHdPmmq69ng/viewform">Get notified when sign-ups open</a></li>
-  </ul>
-  * **<span class="week-name">Week 3:</span> John Hernandez** on burning it all down, and the problematic, inherited cultures imbued within journalism. John will be there for live Q&A. 
-  <ul class="action-links">
-    <li>🗓 Thursday, Sept. 3</li>
-    <li>👉 <a href="https://docs.google.com/forms/d/e/1FAIpQLSd3hUTYaEs6g1fmTK5Qd9nEPGDA6zLwR95z7y9xHdPmmq69ng/viewform">Get notified when sign-ups open</a></li>
-  </ul>
-  * **<span class="week-name">Week 4:</span> Doris Truong and Samantha Ragland** on how no matter where you are on your organization’s ladder, you have agency and power. Doris and Samantha will be there for live Q&A. This talk will be made fully public after the watch party.
-  <ul class="action-links">
-    <li>🗓 Thursday, Sept. 10</li>
-    <li>👉 <a href="https://docs.google.com/forms/d/e/1FAIpQLSd3hUTYaEs6g1fmTK5Qd9nEPGDA6zLwR95z7y9xHdPmmq69ng/viewform">Get notified when sign-ups open</a></li>
-    <li>🧡 Presented with <a href="https://www.poynter.org/"><img class="poynter" src="/media/img/partners/poynter.png"></a></li>
-  </ul>
-  * **<span class="week-name">Week 5</span> Thursday, Sept. 17: Tasneem Raja in conversation with Candice Fortman**, on the joys and challenges of being a woman of color leading her own newsroom, while working within an ecosystem of racist policies and institutions. Tasneem and Candice will be there for live Q&A. This talk will be made fully public after the watch party.
-  <ul class="action-links">
-    <li>🗓 Thursday, Aug. 27</li>
-    <li>👉 <a href="https://docs.google.com/forms/d/e/1FAIpQLSd3hUTYaEs6g1fmTK5Qd9nEPGDA6zLwR95z7y9xHdPmmq69ng/viewform">Get notified when sign-ups open</a></li>
-  </ul>
+Want to partner and co-host one of the talks? [Email us!](mailto:sisi@opennews.org) 
 
-Want to partner and co-host one of the talks? [Email us!](mailto:sisi@opennews.org) Want to make sure you’re notified when sign-ups for public watch parties are available? <a href="https://docs.google.com/forms/d/e/1FAIpQLSd3hUTYaEs6g1fmTK5Qd9nEPGDA6zLwR95z7y9xHdPmmq69ng/viewform">Get notified when sign-ups open</a>.
+### Sign up
+
+## Sign Up Below!
+Once you sign up, we'll email you the Zoom details the morning of the watch party. We'll also send you additional resources to keep learning about the topics covered.
+
+<form data-formrenderer>This form requires JavaScript to complete.</form>
 
 ### Do it yourself
 
-## Set up a Watch Party for your team
+## Setup A Watch Party For Your Team
 If you can’t make it to one of our public watch parties, but would love to watch one of the SRCCON 2020 talks as a team, group, or organization, you’ve got options!
 
   * **Publicly available talks:** Some of our talks will be made completely available to the public after we host our watch party. In these cases, you can organize a watch party with the link directly! We’ll also post links to a “study guide” with both potential discussion prompts, as well as suggested readings to learn more about topics covered in the talk.
@@ -83,3 +108,15 @@ If you can’t make it to one of our public watch parties, but would love to wat
 If you’d like to host something a little more official and you’d like the speakers to attend for discussion or Q&A, let us know and we can ask the speakers on your behalf. In these cases, we’d ask that you pay the speakers for their time.
 
 Interested in the full list of talks at SRCCON 2020 this year? [See the complete list here](https://2020.srccon.org/attendee-faq/#talks-at-srccon-how-do-they-work). If you’re a SRCCON 2020 attendee, full talk transcripts are available in the SRCCON attendee resource guide you used during the conference. If you need a link, [email us](mailto:srccon@opennews.org) and we can send it over!
+
+<script>window.jQuery || document.write('<script src="//code.jquery.com/jquery-2.2.3.min.js"><\/script>')</script>
+
+<link href="//d3q1ytufopwvkq.cloudfront.net/1/formrenderer.css" rel="stylesheet" />
+<script src="//d3q1ytufopwvkq.cloudfront.net/1/formrenderer.js"></script>
+
+
+<script>
+  // Uncomment this line and set it to the CSS class that your website uses for buttons:
+  // FormRenderer.BUTTON_CLASS = '';
+  new FormRenderer({"project_id":"Y7N8huzpUsPtzzBJ"});
+</script>
