@@ -48,7 +48,7 @@ Our talks were only available for SRCCON 2020 attendees, until now.
 
 We’re happy to announce that we’ll be replaying five of our talks from SRCCON 2020, both because they feature important conversations that deserve ongoing discussion and attention, and because we heard from so many SRCCON attendees this year that they’d love to share some of our 2020 talks with peers, their team, or their organization!
 
-Here’s how it’ll work.
+Here’s how it’ll work (or <a href="#sign-up">jump straight to signing up</a>).
 
 ### Schedule
 
