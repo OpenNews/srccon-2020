@@ -16,9 +16,8 @@
     <meta name="twitter:site" value="@srccon" />
     <meta name="twitter:title" value="{{ page.event_name }} — {% if page.title %}{{ page.title }}{% else %}{{ page.event_date }}, {{ page.event_place }}{% endif %}" />
     <meta name="twitter:description" value="{{ page.description | markdownify | strip_html | strip_newlines }}" />
-    <meta name="twitter:image" value="{{ site.url }}/media/img/srccon_share_logo.png" />
+    <meta name="twitter:image" value="{{ site.url }}/media/img/{% if page.share_image %}{{ page.share_image }}{% else %}{{'srccon_share_logo.png'}}{% endif %}" />
     <meta name="twitter:image:alt" value="SRCCON conference logo" />
-
     <link rel="stylesheet" href="https://use.typekit.net/npu3izb.css">
     <link rel="stylesheet" href="/media/css/style.css">
     <link rel="shortcut icon" href="/media/img/favicon.ico" />
