@@ -11,7 +11,7 @@
     <meta property="og:title" content="{{ page.event_name }} — {% if page.title %}{{ page.title }}{% else %}{{ page.event_date }}, {{ page.event_place }}{% endif %}">
     <meta property="og:type" content="article">
     <meta property="og:description" content="{{ page.description | markdownify | strip_html | strip_newlines }}"/>
-    <meta property="og:image" content="{{ site.url }}/media/img/srccon_share_logo.png" />
+    <meta property="og:image" content="{{ site.url }}/media/img/{% if page.share_image %}{{ page.share_image }}{% else %}{{'srccon_share_logo.png'}}{% endif %}" />
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:site" value="@srccon" />
     <meta name="twitter:title" value="{{ page.event_name }} — {% if page.title %}{{ page.title }}{% else %}{{ page.event_date }}, {{ page.event_place }}{% endif %}" />
