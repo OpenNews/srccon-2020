@@ -3,6 +3,7 @@ section: talks-watch-parties
 permalink: /talks-watch-parties/
 title: SRCCON Talks Watch Parties
 description: We’re replaying five talks from SRCCON 2020 for the public. Join us!
+share_image: srccon_watch_parties_share.png
 ---
 
 <style type="text/css">
