@@ -72,7 +72,7 @@ Here's the schedule:
 </ul>
 * **<span class="week-name">Week 3:</span> John Hernandez** on burning it all down, and the problematic, inherited cultures imbued within journalism. John will be there for live Q&A. <a href="#sign-up">Sign up below!</a>
 <ul class="action-links">
-  <li>🗓 Thursday, Sept. 3</li>
+  <li>🗓 Thursday, Sept. 3, 1-2 p.m. ET</li>
 </ul>
 * **<span class="week-name">Week 4:</span> Doris Truong and Samantha Ragland** on how no matter where you are on your organization’s ladder, you have agency and power. Doris and Samantha will be there for live Q&A. <a href="#sign-up">Sign up below!</a>
 <ul class="action-links">
