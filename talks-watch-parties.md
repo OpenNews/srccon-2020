@@ -17,6 +17,7 @@ share_image: srccon_watch_parties_share.png
   ul.action-links li { display: block; }
   img.poynter {margin-bottom:-13px;}
   img.media-2070 {width: 75px;}
+  img.nii { width: 170px; margin: 0 0 -40px 10px; }
   form.fr_form {
     padding: 0 0 0 30px;
     font-size: 0.85em;
@@ -69,6 +70,7 @@ Here's the schedule:
 * **<span class="week-name">Week 2:</span> Moiz Syed and Ellis Simani** on objectivity, privilege, and how we report on protests. Reflecting on another year of Black Lives Matter protests and the coverage that ensued, this talk explores the history of our industry, the ideals it upholds, and the deep fault lines running through our newsrooms as they fail to accurately represent the diversity of our people. Moiz and Ellis will be there for live Q&A. <a href="#sign-up">Sign up below!</a>
 <ul class="action-links">
   <li>🗓 Thursday, Aug. 27, 1-2 p.m. ET</li>
+  <li>🧡 Presented with: <a href="https://www.journalism.cuny.edu/centers/tow-knight-center-entrepreneurial-journalism/news-integrity-initiative/"><img class="nii" src="/media/img/partners/NII.png"></a></li>
 </ul>
 * **<span class="week-name">Week 3:</span> John Hernandez** on burning it all down, and the problematic, inherited cultures imbued within journalism. John will be there for live Q&A. <a href="#sign-up">Sign up below!</a>
 <ul class="action-links">
