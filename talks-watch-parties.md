@@ -40,6 +40,10 @@ share_image: srccon_watch_parties_share.png
   .fr_description { padding-top: 0em;
     font-style: normal;
     color: #888; }
+  .fr_after_submit_page {
+    color: #fc6d1f;
+    font-style: italic;
+  }
 </style>
 
 # SRCCON Talks Watch Parties 🎉
