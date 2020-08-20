@@ -95,7 +95,7 @@ Want to partner and co-host one of the talks? [Email us!](mailto:sisi@opennews.o
 ### Sign up
 
 ## Sign Up Below!
-Once you sign up, we'll email you the Zoom details the morning of the watch party. We'll also send you additional resources to keep learning about the topics covered.
+Once you sign up, we'll email you the Zoom details the morning of the watch party. If the talk you want to sign up for has already started, or is starting within the next 2-3 hours, after signing up here, check your email for a confirmation message with the Zoom details. We'll also send you additional resources to keep learning about the topics covered.
 
 <form data-formrenderer>This form requires JavaScript to complete.</form>
 
