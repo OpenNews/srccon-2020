@@ -18,6 +18,7 @@ share_image: srccon_watch_parties_share.png
   img.poynter {margin-bottom:-13px;}
   img.media-2070 {width: 75px;}
   img.nii { width: 170px; margin: 0 0 -40px 10px; }
+  img.lion { margin: 0 0 -66px 10px; width: 100px;} 
   form.fr_form {
     padding: 0 0 0 30px;
     font-size: 0.85em;
@@ -86,6 +87,7 @@ Here's the schedule:
 <ul class="action-links">
   <li>🗓 Thursday, Sept. 17</li>
   <li>📽 This talk will be made fully public after the watch party.</li>
+  <li>🧡 Presented with <a href="https://www.lionpublishers.com/"><img class="lion" src="/media/img/partners/lion.png"></a></li>
 </ul>
 
 Want to partner and co-host one of the talks? [Email us!](mailto:sisi@opennews.org) 
@@ -93,7 +95,7 @@ Want to partner and co-host one of the talks? [Email us!](mailto:sisi@opennews.o
 ### Sign up
 
 ## Sign Up Below!
-Once you sign up, we'll email you the Zoom details the morning of the watch party. We'll also send you additional resources to keep learning about the topics covered.
+Once you sign up, we'll email you the Zoom details the morning of the watch party. If the talk you want to sign up for has already started, or is starting within the next 2-3 hours, after signing up here, check your email for a confirmation message with the Zoom details. We'll also send you additional resources to keep learning about the topics covered.
 
 <form data-formrenderer>This form requires JavaScript to complete.</form>
 
