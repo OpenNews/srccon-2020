@@ -73,7 +73,7 @@ Here's the schedule:
   <li>🗓 This party has already happened!</li>
   <li>🧡 Presented with: <a href="https://www.freepress.net/"><img class="free-press" src="/media/img/partners/free-press.png"></a> <a href="https://act.freepress.net/sign/media_2070/"><img class="media-2070" src="/media/img/partners/media-2070.png"></a></li>
 </ul>
-* **<span class="week-name">Week 2:</span> Moiz Syed and Ellis Simani** on objectivity, privilege, and how we report on protests. Reflecting on another year of Black Lives Matter protests and the coverage that ensued, this talk explores the history of our industry, the ideals it upholds, and the deep fault lines running through our newsrooms as they fail to accurately represent the diversity of our people. Moiz and Ellis will be there for live Q&A. <a href="#sign-up">Sign up below!</a>
+* **<span class="week-name">Week 2:</span> Moiz Syed and Ellis Simani** on objectivity, privilege, and how we report on protests. Reflecting on another year of Black Lives Matter protests and the coverage that ensued, this talk explores the history of our industry, the ideals it upholds, and the deep fault lines running through our newsrooms as they fail to accurately represent the diversity of our people. Moiz and Ellis will be there for live Q&A. 
 <ul class="action-links">
   <!-- <li>🗓 Thursday, Aug. 27, 1-2 p.m. ET</li> -->
   <li>🗓 This party has already happened!</li>
