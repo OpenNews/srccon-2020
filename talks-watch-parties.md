@@ -70,16 +70,16 @@ Here's the schedule:
 * **<span class="week-name">Week 1:</span> Alicia Bell and Tauhid Chappell** on campaigning and organizing as journalists and inside our own organizations. Alicia and Tauhid will be there for live Q&A.
 <ul class="action-links">
   <!-- <li>🗓 Thursday, Aug. 20, 1-2 p.m. ET.</li> -->
-  <li>🗓 This party has already happened!</li>
+  <li>🗓 This party has already happened! <a href="#do-it-yourself">Host a private watch party.</a></li>
   <li>🧡 Presented with: <a href="https://www.freepress.net/"><img class="free-press" src="/media/img/partners/free-press.png"></a> <a href="https://act.freepress.net/sign/media_2070/"><img class="media-2070" src="/media/img/partners/media-2070.png"></a></li>
 </ul>
 * **<span class="week-name">Week 2:</span> Moiz Syed and Ellis Simani** on objectivity, privilege, and how we report on protests. Reflecting on another year of Black Lives Matter protests and the coverage that ensued, this talk explores the history of our industry, the ideals it upholds, and the deep fault lines running through our newsrooms as they fail to accurately represent the diversity of our people. Moiz and Ellis will be there for live Q&A. 
 <ul class="action-links">
   <!-- <li>🗓 Thursday, Aug. 27, 1-2 p.m. ET</li> -->
-  <li>🗓 This party has already happened!</li>
+  <li>🗓 This party has already happened! <a href="#do-it-yourself">Host a private watch party.</a></li>
   <li>🧡 Presented with: <a href="https://www.journalism.cuny.edu/centers/tow-knight-center-entrepreneurial-journalism/news-integrity-initiative/"><img class="nii" src="/media/img/partners/NII.png"></a></li>
 </ul>
-* **<span class="week-name">Week 3:</span> John Hernandez** on burning it all down, and the problematic, inherited cultures imbued within journalism. John will be there for live Q&A. <a href="#sign-up">Sign up below!</a>
+* **<span class="week-name">Week 3:</span> John Hernandez** on burning it all down, and the problematic, inherited cultures imbued within journalism. John will be sharing his own lived experience in journalism, the patterns and systemic challenges he's faced, and some steps we must take to change our industry. John will be there for live Q&A. <a href="#sign-up">Sign up below!</a>
 <ul class="action-links">
   <li>🗓 Thursday, Sept. 3, 1-2 p.m. ET</li>
 </ul>
