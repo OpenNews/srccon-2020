@@ -79,7 +79,7 @@ Here's the schedule:
   <li>🗓 This party has already happened!</li>
   <li>🧡 Presented with: <a href="https://www.journalism.cuny.edu/centers/tow-knight-center-entrepreneurial-journalism/news-integrity-initiative/"><img class="nii" src="/media/img/partners/NII.png"></a></li>
 </ul>
-* **<span class="week-name">Week 3:</span> John Hernandez** on burning it all down, and the problematic, inherited cultures imbued within journalism. John will be there for live Q&A. <a href="#sign-up">Sign up below!</a>
+* **<span class="week-name">Week 3:</span> John Hernandez** on burning it all down, and the problematic, inherited cultures imbued within journalism. John will be sharing his own lived experience in journalism, the patterns and systemic challenges he's faced, and some steps we must take to change our industry. John will be there for live Q&A. <a href="#sign-up">Sign up below!</a>
 <ul class="action-links">
   <li>🗓 Thursday, Sept. 3, 1-2 p.m. ET</li>
 </ul>
