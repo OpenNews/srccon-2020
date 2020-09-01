@@ -19,6 +19,8 @@ share_image: srccon_watch_parties_share.png
   img.media-2070 {width: 75px;}
   img.nii { width: 170px; margin: 0 0 -40px 10px; }
   img.lion { margin: 0 0 -66px 10px; width: 100px;} 
+  img.rej { margin: 0px 0 -50px 0; width: 185px;} 
+  img.maynard { margin: 0 0 -30px 10px; width: 170px; }
   form.fr_form {
     padding: 0 0 0 30px;
     font-size: 0.85em;
@@ -82,6 +84,7 @@ Here's the schedule:
 * **<span class="week-name">Week 3:</span> John Hernandez** on burning it all down, and the problematic, inherited cultures imbued within journalism. John will be sharing his own lived experience in journalism, the patterns and systemic challenges he's faced, and some steps we must take to change our industry. John will be there for live Q&A. <a href="#sign-up">Sign up below!</a>
 <ul class="action-links">
   <li>🗓 Thursday, Sept. 3, 1-2 p.m. ET</li>
+  <li>🧡 Presented with: <a href="https://borealisphilanthropy.org/grantmaking/racial-equity-in-journalism-fund/"><img class="rej" src="/media/img/partners/rej.png"></a> <a href="https://www.mije.org/"><img class="maynard" src="/media/img/partners/maynard.jpg"></a></li>
 </ul>
 * **<span class="week-name">Week 4:</span> Doris Truong and Samantha Ragland** on how no matter where you are on your organization’s ladder, you have agency and power. Doris and Samantha will be there for live Q&A. <a href="#sign-up">Sign up below!</a>
 <ul class="action-links">
