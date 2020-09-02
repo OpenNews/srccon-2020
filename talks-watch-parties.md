@@ -88,13 +88,13 @@ Here's the schedule:
 </ul>
 * **<span class="week-name">Week 4:</span> Doris Truong and Samantha Ragland** on how no matter where you are on your organization’s ladder, you have agency and power. Doris and Samantha will be there for live Q&A. <a href="#sign-up">Sign up below!</a>
 <ul class="action-links">
-  <li>🗓 Thursday, Sept. 10</li>
+  <li>🗓 Thursday, Sept. 10, 1-2 p.m. ET</li>
   <li>📽 This talk will be made fully public after the watch party.</li>
   <li>🧡 Presented with <a href="https://www.poynter.org/"><img class="poynter" src="/media/img/partners/poynter.png"></a></li>
 </ul>
 * **<span class="week-name">Week 5:</span> Tasneem Raja in conversation with Candice Fortman**, on the joys and challenges of being a woman of color leading her own newsroom, while working within an ecosystem of racist policies and institutions. Tasneem and Candice will be there for live Q&A. <a href="#sign-up">Sign up below!</a>
 <ul class="action-links">
-  <li>🗓 Thursday, Sept. 17</li>
+  <li>🗓 Thursday, Sept. 17, 1-2 p.m. ET</li>
   <li>📽 This talk will be made fully public after the watch party.</li>
   <li>🧡 Presented with <a href="https://www.lionpublishers.com/"><img class="lion" src="/media/img/partners/lion.png"></a></li>
 </ul>
