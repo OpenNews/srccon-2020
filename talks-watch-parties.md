@@ -81,9 +81,10 @@ Here's the schedule:
   <li>🗓 This party has already happened! <a href="#do-it-yourself">Host a private watch party.</a></li>
   <li>🧡 Presented with: <a href="https://www.journalism.cuny.edu/centers/tow-knight-center-entrepreneurial-journalism/news-integrity-initiative/"><img class="nii" src="/media/img/partners/NII.png"></a></li>
 </ul>
-* **<span class="week-name">Week 3:</span> John Hernandez** on burning it all down, and the problematic, inherited cultures imbued within journalism. John will be sharing his own lived experience in journalism, the patterns and systemic challenges he's faced, and some steps we must take to change our industry. John will be there for live Q&A. <a href="#sign-up">Sign up below!</a>
+* **<span class="week-name">Week 3:</span> John Hernandez** on burning it all down, and the problematic, inherited cultures imbued within journalism. John will be sharing his own lived experience in journalism, the patterns and systemic challenges he's faced, and some steps we must take to change our industry. John will be there for live Q&A.
 <ul class="action-links">
-  <li>🗓 Thursday, Sept. 3, 1-2 p.m. ET</li>
+  <!-- <li>🗓 Thursday, Sept. 3, 1-2 p.m. ET</li> -->
+  <li>🗓 This party has already happened! <a href="#do-it-yourself">Host a private watch party.</a></li>
   <li>🧡 Presented with: <a href="https://borealisphilanthropy.org/grantmaking/racial-equity-in-journalism-fund/"><img class="rej" src="/media/img/partners/rej.png"></a> <a href="https://www.mije.org/"><img class="maynard" src="/media/img/partners/maynard.jpg"></a></li>
 </ul>
 * **<span class="week-name">Week 4:</span> Doris Truong and Samantha Ragland** on how no matter where you are on your organization’s ladder, you have agency and power. Doris and Samantha will be there for live Q&A. <a href="#sign-up">Sign up below!</a>
