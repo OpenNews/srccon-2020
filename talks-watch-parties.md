@@ -115,8 +115,7 @@ Once you sign up, we'll email you the Zoom details the morning of the watch part
 If you can’t make it to one of our public watch parties, but would love to watch one of the SRCCON 2020 talks as a team, group, or organization, you’ve got options!
 
   * **Publicly available talks:** Some of our talks will be made completely available to the public after we host our watch party. In these cases, you can organize a watch party with the link directly! We’ll also post links to a “study guide” with both potential discussion prompts, as well as suggested readings to learn more about topics covered in the talk.
-  * **Talks available for private watch parties only:** To respect our speaker’s wishes, some of our talks are only available to be shared  as a temporary link, along with a study guide! If you’re interested in hosting a private watch party for your group, let us know which talk you’re interested in, and we can talk about the options available for that talk.
-
+  * **Talks available for private watch parties only:** To respect our speaker’s wishes, some of our talks are only available to be shared  as a temporary link, along with a study guide! If you’re interested in hosting a private watch party for your group, [let us know](mailto:srccon@opennews.org) which talk you’re interested in, and we can talk about the options available for that talk.
 
 If you’d like to host something a little more official and you’d like the speakers to attend for discussion or Q&A, let us know and we can ask the speakers on your behalf. In these cases, we’d ask that you pay the speakers for their time.
 
