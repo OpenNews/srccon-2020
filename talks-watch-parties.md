@@ -87,9 +87,10 @@ Here's the schedule:
   <li>🗓 This party has already happened! <a href="#do-it-yourself">Host a private watch party.</a></li>
   <li>🧡 Presented with: <a href="https://borealisphilanthropy.org/grantmaking/racial-equity-in-journalism-fund/"><img class="rej" src="/media/img/partners/rej.png"></a> <a href="https://www.mije.org/"><img class="maynard" src="/media/img/partners/maynard.jpg"></a></li>
 </ul>
-* **<span class="week-name">Week 4:</span> Doris Truong and Samantha Ragland** on how no matter where you are on your organization’s ladder, you have agency and power. Doris and Samantha will be there for live Q&A. <a href="#sign-up">Sign up below!</a>
+* **<span class="week-name">Week 4:</span> Doris Truong and Samantha Ragland** on how no matter where you are on your organization’s ladder, you have agency and power. Doris and Samantha will be there for live Q&A.
 <ul class="action-links">
-  <li>🗓 Thursday, Sept. 10, 1-2 p.m. ET</li>
+  <!-- <li>🗓 Thursday, Sept. 10, 1-2 p.m. ET</li> -->
+  <li>🗓 This party has already happened! Stay tuned for the public release.</li>
   <li>📽 This talk will be made fully public after the watch party.</li>
   <li>🧡 Presented with <a href="https://www.poynter.org/"><img class="poynter" src="/media/img/partners/poynter.png"></a></li>
 </ul>
