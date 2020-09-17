@@ -101,7 +101,7 @@ Here's the schedule:
   <li>🧡 Presented with <a href="https://www.lionpublishers.com/"><img class="lion" src="/media/img/partners/lion.png"></a></li>
 </ul>
 
-Want to partner and co-host one of the talks? [Email us!](mailto:sisi@opennews.org) 
+<!-- Want to partner and co-host one of the talks? [Email us!](mailto:sisi@opennews.org)  -->
 
 ### Sign up
 
