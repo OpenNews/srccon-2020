@@ -57,7 +57,9 @@ Our talks were only available for SRCCON 2020 attendees, until now.
 
 We’re happy to announce that we’ll be replaying five of our talks from SRCCON 2020, both because they feature important conversations that deserve ongoing discussion and attention, and because we heard from so many SRCCON attendees this year that they’d love to share some of our 2020 talks with peers, their team, or their organization!
 
-Here’s how it’ll work (or <a href="#sign-up">jump straight to signing up</a>).
+<strong>📣 Our Watch Parties series has concluded!</strong> 🙏 Thank you to the hundreds of folks who signed up. <a href="https://opennews.us5.list-manage.com/subscribe?u=71c95e9a43708843d2fdc1f09&id=996e9290cc">Join the OpenNews community mailing list</a> to hear about future events like this one.
+
+<!-- Here’s how it’ll work (or <a href="#sign-up">jump straight to signing up</a>). -->
 
 ### Schedule
 
@@ -94,9 +96,10 @@ Here's the schedule:
   <li>📽 This talk will be made fully public after the watch party.</li>
   <li>🧡 Presented with <a href="https://www.poynter.org/"><img class="poynter" src="/media/img/partners/poynter.png"></a></li>
 </ul>
-* **<span class="week-name">Week 5:</span> Tasneem Raja in conversation with Candice Fortman**, on the joys and challenges of being a woman of color leading her own newsroom, while working within an ecosystem of racist policies and institutions. Tasneem and Candice will be there for live Q&A. <a href="#sign-up">Sign up below!</a>
+* **<span class="week-name">Week 5:</span> Tasneem Raja in conversation with Candice Fortman**, on the joys and challenges of being a woman of color leading her own newsroom, while working within an ecosystem of racist policies and institutions. Tasneem and Candice will be there for live Q&A. <!-- <a href="#sign-up">Sign up below!</a> -->
 <ul class="action-links">
-  <li>🗓 Thursday, Sept. 17, 1-2 p.m. ET</li>
+  <!-- <li>🗓 Thursday, Sept. 17, 1-2 p.m. ET</li> -->
+  <li>🗓 This party has already happened! Stay tuned for the public release.</li>
   <li>📽 This talk will be made fully public after the watch party.</li>
   <li>🧡 Presented with <a href="https://www.lionpublishers.com/"><img class="lion" src="/media/img/partners/lion.png"></a></li>
 </ul>
@@ -106,9 +109,12 @@ Here's the schedule:
 ### Sign up
 
 ## Sign Up Below!
-Once you sign up, we'll email you the Zoom details the morning of the watch party. If the talk you want to sign up for has already started, or is starting within the next 2-3 hours, after signing up here, you'll get a confirmation message below with the Zoom details. We'll also send you additional resources to keep learning about the topics covered.
 
-<form data-formrenderer>This form requires JavaScript to complete.</form>
+Our Watch Parties series has concluded, but you can still stay in touch with us by <a href="https://opennews.us5.list-manage.com/subscribe?u=71c95e9a43708843d2fdc1f09&id=996e9290cc">signing up for the OpenNews community mailing list</a>, where we'll share future events like this, as well as our other programs and events aimed at supporting the community. We'll also be announcing on our mailing list when the publicly available talks are online!
+
+<!-- Once you sign up, we'll email you the Zoom details the morning of the watch party. If the talk you want to sign up for has already started, or is starting within the next 2-3 hours, after signing up here, you'll get a confirmation message below with the Zoom details. We'll also send you additional resources to keep learning about the topics covered. -->
+
+<!-- <form data-formrenderer>This form requires JavaScript to complete.</form> -->
 
 ### Do it yourself
 
@@ -122,14 +128,14 @@ If you’d like to host something a little more official and you’d like the sp
 
 Interested in the full list of talks at SRCCON 2020 this year? [See the complete list here](https://2020.srccon.org/attendee-faq/#talks-at-srccon-how-do-they-work). If you’re a SRCCON 2020 attendee, full talk transcripts are available in the SRCCON attendee resource guide you used during the conference. If you need a link, [email us](mailto:srccon@opennews.org) and we can send it over!
 
+<!-- 
 <script>window.jQuery || document.write('<script src="//code.jquery.com/jquery-2.2.3.min.js"><\/script>')</script>
-
 <link href="//d3q1ytufopwvkq.cloudfront.net/1/formrenderer.css" rel="stylesheet" />
 <script src="//d3q1ytufopwvkq.cloudfront.net/1/formrenderer.js"></script>
-
+ -->
 
 <script>
   // Uncomment this line and set it to the CSS class that your website uses for buttons:
   // FormRenderer.BUTTON_CLASS = '';
-  new FormRenderer({"project_id":"Y7N8huzpUsPtzzBJ"});
+  // new FormRenderer({"project_id":"Y7N8huzpUsPtzzBJ"});
 </script>
