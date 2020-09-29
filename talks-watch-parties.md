@@ -126,7 +126,7 @@ Here's the schedule:
 
 ## Sign Up Below!
 
-Our Watch Parties series has concluded, but you can still stay in touch with us by <a href="https://opennews.us5.list-manage.com/subscribe?u=71c95e9a43708843d2fdc1f09&id=996e9290cc">signing up for the OpenNews community mailing list</a>, where we'll share future events like this, as well as our other programs and events aimed at supporting the community. We'll also be announcing on our mailing list when the publicly available talks are online!
+Our Watch Parties series has concluded, but you can still stay in touch with us by <a href="https://opennews.us5.list-manage.com/subscribe?u=71c95e9a43708843d2fdc1f09&id=996e9290cc">signing up for the OpenNews community mailing list</a>, where we'll share future events like this, as well as our other programs and events aimed at supporting the community. <!-- We'll also be announcing on our mailing list when the publicly available talks are online! -->
 
 <!-- Once you sign up, we'll email you the Zoom details the morning of the watch party. If the talk you want to sign up for has already started, or is starting within the next 2-3 hours, after signing up here, you'll get a confirmation message below with the Zoom details. We'll also send you additional resources to keep learning about the topics covered. -->
 
