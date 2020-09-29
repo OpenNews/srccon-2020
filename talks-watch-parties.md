@@ -74,7 +74,7 @@ We're happy to be able to make two of our SRCCON Talks this year fully public. E
 **Doris Truong and Samantha Ragland** on how no matter where you are on your organization’s ladder, you have agency and power.
 <center><iframe class="video" src="https://player.vimeo.com/video/454774425" width="640" height="396" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></center>
 
-<br/><br/>
+<br/>
 **Tasneem Raja in conversation with Candice Fortman**, on the joys and challenges of being a woman of color leading her own newsroom, while working within an ecosystem of racist policies and institutions.
 <center><iframe class="video" src="https://player.vimeo.com/video/461554760" width="640" height="396" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></center>
 
