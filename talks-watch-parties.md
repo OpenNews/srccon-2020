@@ -61,6 +61,20 @@ We’re happy to announce that we’ll be replaying five of our talks from SRCCO
 
 <!-- Here’s how it’ll work (or <a href="#sign-up">jump straight to signing up</a>). -->
 
+### Public Talks
+
+## 📽 Watch Now
+
+We're happy to be able to make two of our SRCCON Talks this year fully public. Enjoy!
+
+**Doris Truong and Samantha Ragland** on how no matter where you are on your organization’s ladder, you have agency and power.
+<center><iframe src="https://player.vimeo.com/video/454774425" width="640" height="396" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></center>
+
+<br/><br/>
+**Tasneem Raja in conversation with Candice Fortman**, on the joys and challenges of being a woman of color leading her own newsroom, while working within an ecosystem of racist policies and institutions.
+<center><iframe src="https://player.vimeo.com/video/461554760" width="640" height="396" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></center>
+
+
 ### Schedule
 
 ## 📽 Public Watch Party Schedule
@@ -92,15 +106,17 @@ Here's the schedule:
 * **<span class="week-name">Week 4:</span> Doris Truong and Samantha Ragland** on how no matter where you are on your organization’s ladder, you have agency and power. Doris and Samantha will be there for live Q&A.
 <ul class="action-links">
   <!-- <li>🗓 Thursday, Sept. 10, 1-2 p.m. ET</li> -->
-  <li>🗓 This party has already happened! Stay tuned for the public release.</li>
-  <li>📽 This talk will be made fully public after the watch party.</li>
+  <!-- <li>🗓 This party has already happened! Stay tuned for the public release.</li>
+  <li>📽 This talk will be made fully public after the watch party.</li> -->
+  <li>📽 Watch this talk <a href="#public-talks">above</a>.</li>
   <li>🧡 Presented with <a href="https://www.poynter.org/"><img class="poynter" src="/media/img/partners/poynter.png"></a></li>
 </ul>
 * **<span class="week-name">Week 5:</span> Tasneem Raja in conversation with Candice Fortman**, on the joys and challenges of being a woman of color leading her own newsroom, while working within an ecosystem of racist policies and institutions. Tasneem and Candice will be there for live Q&A. <!-- <a href="#sign-up">Sign up below!</a> -->
 <ul class="action-links">
   <!-- <li>🗓 Thursday, Sept. 17, 1-2 p.m. ET</li> -->
-  <li>🗓 This party has already happened! Stay tuned for the public release.</li>
-  <li>📽 This talk will be made fully public after the watch party.</li>
+  <!-- <li>🗓 This party has already happened! Stay tuned for the public release.</li>
+  <li>📽 This talk will be made fully public after the watch party.</li> -->
+  <li>📽 Watch this talk <a href="#public-talks">above</a>.</li>
   <li>🧡 Presented with <a href="https://www.lionpublishers.com/"><img class="lion" src="/media/img/partners/lion.png"></a></li>
 </ul>
 
