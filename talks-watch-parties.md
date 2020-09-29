@@ -46,6 +46,10 @@ share_image: srccon_watch_parties_share.png
     color: #fc6d1f;
     font-style: italic;
   }
+  .video {
+    border: 1px solid #dcdcdc;
+    border-radius: 4px;
+  }
 </style>
 
 # SRCCON Talks Watch Parties 🎉
@@ -68,11 +72,11 @@ We’re happy to announce that we’ll be replaying five of our talks from SRCCO
 We're happy to be able to make two of our SRCCON Talks this year fully public. Enjoy!
 
 **Doris Truong and Samantha Ragland** on how no matter where you are on your organization’s ladder, you have agency and power.
-<center><iframe src="https://player.vimeo.com/video/454774425" width="640" height="396" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></center>
+<center><iframe class="video" src="https://player.vimeo.com/video/454774425" width="640" height="396" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></center>
 
-<br/><br/>
+<br/>
 **Tasneem Raja in conversation with Candice Fortman**, on the joys and challenges of being a woman of color leading her own newsroom, while working within an ecosystem of racist policies and institutions.
-<center><iframe src="https://player.vimeo.com/video/461554760" width="640" height="396" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></center>
+<center><iframe class="video" src="https://player.vimeo.com/video/461554760" width="640" height="396" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></center>
 
 
 ### Schedule
